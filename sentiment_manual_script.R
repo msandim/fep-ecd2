@@ -36,4 +36,5 @@ score.sentiment <- function(sentences, pos.words, neg.words, .progress='none')
   return(scores.df)
 }
 
-scores <- score.sentiment(data$text, pos.words, neg.words, .progress='text')
+sentiment_scores_manual <- score.sentiment(data$text, pos.words, neg.words, .progress='text')
+
