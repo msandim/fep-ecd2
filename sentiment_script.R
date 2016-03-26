@@ -3,3 +3,5 @@
 
 pos.words <- read.table("positive-words.txt")
 neg.words <- read.table("negative-words.txt")
+
+#if needed add more words to the lists
