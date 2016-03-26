@@ -22,19 +22,18 @@ data <- data.frame("id" = old_data$id,
                    ) 
 
 # text cleaning: http://colinpriest.com/2015/07/04/tutorial-using-r-and-twitter-to-analyse-consumer-sentiment/
-some_txt = data[4,2]
-  
-  
+text <- data$text
+
 # remove retweet entities
-some_txt = gsub("(RT|via)((?:\\b\\W*@\\w+)+)", "", some_txt)
+text = gsub("(RT|via)((?:\\b\\W*@\\w+)+)", "", text)
 # remove at people
-some_txt = gsub("@\\w+", "", some_txt)
+text = gsub("@\\w+", "", text)
 # remove punctuation
-some_txt = gsub("[[:punct:]]", "", some_txt)
+text = gsub("[[:punct:]]", "", text)
 # remove numbers
-some_txt = gsub("[[:digit:]]", "", some_txt)
+text = gsub("[[:digit:]]", "", text)
 # remove html links
-some_txt = gsub("http\\w+", "", some_txt)
+text = gsub("http\\w+", "", text)
 
 # define "tolower error handling" function
 try.error = function(x)
@@ -50,11 +49,9 @@ try.error = function(x)
   return(y)
 }
 # lower case using try.error with sapply
-some_txt = sapply(some_txt, try.error)
+text = sapply(text, try.error)
 
-# remove NAs in some_txt
-some_txt = some_txt[!is.na(some_txt)]
-names(some_txt) = NULL
+data$text <- text
   
 
 
