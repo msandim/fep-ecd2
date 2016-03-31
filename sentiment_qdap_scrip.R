@@ -8,4 +8,7 @@ library(data.table)
 pol.df <- polarity(data$text)$all
 
 #add this result to the data
-sentiment_scores_qdap <- pol.df
+sentiment_scores_qdap <- data.frame("sentiment" = pol.df$polarity,
+                                    "text" = pol.df$text)
+write.csv(sentiment_scores_qdap, file = "sentiment_qdap.csv", fileEncoding = "utf-8", row.names=FALSE)
+

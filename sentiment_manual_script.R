@@ -37,4 +37,4 @@ score.sentiment <- function(sentences, pos.words, neg.words, .progress='none')
 }
 
 sentiment_scores_manual <- score.sentiment(data$text, pos.words, neg.words, .progress='text')
-
+write.csv(sentiment_scores_manual, file = "sentiment_manual.csv", fileEncoding = "utf-8", row.names=FALSE)
