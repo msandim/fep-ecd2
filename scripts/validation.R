@@ -8,7 +8,7 @@ library(caret)
 validationStatistics <- function (predictions, y, positiveClass, negativeClass)
 {
   # Calculate precision and recall:
-  result <- confusionMatrix(lol, lol2, positiveClass)
+  result <- confusionMatrix(predictions, y, positiveClass)
   precision <- result$byClass[['Pos Pred Value']]
   recall <- result$byClass[['Sensitivity']]
   
