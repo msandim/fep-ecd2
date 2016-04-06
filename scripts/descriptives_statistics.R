@@ -34,5 +34,5 @@ lapply(candidates_names, generate.cloud)
 #      Frequencies about the posts
 ##########################################
 
-frequencies <- table(preprocessed_data$candidate)
-frequencies <- table(preprocessed_data$subject_matter)
+frequenciesCandidates <- table(preprocessed_data$candidate)
+frequenciesSubject <- table(preprocessed_data$subject_matter)

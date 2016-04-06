@@ -7,14 +7,12 @@ library(Rstem)
 
 #https://jeffreybreen.wordpress.com/2011/07/04/twitter-text-mining-r-slides/
 
-pos.words <- read.table("positive-words.txt")
-neg.words <- read.table("negative-words.txt")
+pos.words <- read.table("csv_data/positive-words.txt")
+neg.words <- read.table("csv_data/negative-words.txt")
 
 #if needed add more words to the lists
 
 #evaluation tweets function
-
-sentence = data[29,2]
 
 score.sentiment <- function(sentences, pos.words, neg.words, .progress='none')
 {
@@ -24,7 +22,7 @@ score.sentiment <- function(sentences, pos.words, neg.words, .progress='none')
   scores <- laply(sentences, function(sentence, pos.words, neg.words){
     word.list <- strsplit(sentence, " ")
     words <- unlist(word.list)
-    words <- wordStem(words, language="english") #e. g. winning -> win (in slides)
+    words <- wordStem(words, language="english") #e. g. winning -> win (in slides) homeless home
     pos.matches <- match(words, pos.words$V1)
     neg.matches <- match(words, neg.words$V1)
     pos.matches <- !is.na(pos.matches)

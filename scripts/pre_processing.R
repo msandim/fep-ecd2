@@ -1,11 +1,13 @@
 library(tm)
 
+#setwd("~/fep-ecd2")
+
 ######################################
 #            Prepare data
 ######################################
 
 #read the csv
-data <- read.csv("GOF_data.csv")
+data <- read.csv("csv_data/GOF_data.csv")
 
 old_data <- data
 

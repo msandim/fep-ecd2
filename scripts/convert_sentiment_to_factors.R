@@ -1,6 +1,3 @@
-library(caret)
-library(PerfMeas)
-
 #load data
 data <- read.csv("GOF_data.csv")
 sentiment_scores_manual <- read.csv("sentiment_manual.csv")
@@ -20,9 +17,3 @@ attach(sentiment_scores_qdap)
 sentiment_scores_qdap$str[sentiment > 0] <- "Positive"
 sentiment_scores_qdap$str[sentiment == 0] <- "Neutral"
 sentiment_scores_qdap$str[sentiment < 0] <- "Negative"
-detach(sentiment_scores_qdap) 
-
-conf.matrix2 = confusionMatrix(data$sentiment, sentiment_scores_qdap$str)
-
-# F.score and other metrics for the 3 classes
-F.measure.single.over.classes(data$sentiment, sentiment_scores_qdap$str)
