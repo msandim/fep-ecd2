@@ -7,35 +7,37 @@ library(tm)
 ######################################
 
 #read the csv
-data <- read.csv("csv_data/GOF_data.csv")
-
-old_data <- data
+original_data <- read.csv("csv_data/GOF_data.csv")
 
 #delete not needed columns
 
-data <- data.frame("id" = old_data$id,
-                   "text" = old_data$text,
-                   "candidate" = old_data$candidate,
-                   "candidate_confidence" = old_data$candidate_confidence,
-                   "subject_matter" = old_data$subject_matter,
-                   "subject_matter_confidence" = old_data$subject_matter_confidence,
-                   "sentiment" = old_data$sentiment,
-                   "sentiment_confidence" = old_data$sentiment_confidence
+original_data <- data.frame("id" = original_data$id,
+                   "text" = original_data$text,
+                   "candidate" = original_data$candidate,
+                   "candidate_confidence" = original_data$candidate_confidence,
+                   "subject_matter" = original_data$subject_matter,
+                   "subject_matter_confidence" = original_data$subject_matter_confidence,
+                   "sentiment" = original_data$sentiment,
+                   "sentiment_confidence" = original_data$sentiment_confidence
                    ) 
 
 # text cleaning: http://colinpriest.com/2015/07/04/tutorial-using-r-and-twitter-to-analyse-consumer-sentiment/
-text <- data$text
+#text <- original_data$text
+
+################################
+##### Text cleaning ############
+################################
 
 # remove retweet entities
-text = gsub("(RT|via)((?:\\b\\W*@\\w+)+)", "", text)
+original_data$text = gsub("(RT|via)((?:\\b\\W*@\\w+)+)", "", original_data$text)
 # remove at people
-text = gsub("@\\w+", "", text)
+original_data$text = gsub("@\\w+", "", original_data$text)
 # remove punctuation
-text = gsub("[[:punct:]]", "", text)
+original_data$text = gsub("[[:punct:]]", "", original_data$text)
 # remove numbers
-text = gsub("[[:digit:]]", "", text)
+original_data$text = gsub("[[:digit:]]", "", original_data$text)
 # remove html links
-text = gsub("http\\w+", "", text)
+original_data$text = gsub("http\\w+", "", original_data$text)
 
 # define "tolower error handling" function
 try.error = function(x)
@@ -51,11 +53,11 @@ try.error = function(x)
   return(y)
 }
 # lower case using try.error with sapply
-text = sapply(text, try.error)
+original_data$text = sapply(original_data$text, try.error)
 
-data$text <- text
-  
+####################################
+######## Filter data rows ##########
+####################################
 
-
-
-
+original_data <- original_data[original_data$sentiment != "Neutral",]
+original_data$sentiment <- factor(original_data$sentiment)
