@@ -11,7 +11,7 @@ sentimentQdap <- function()
   
   pol.df_Default <- polarity(original_data$text)$all
   pol.df_AFINN <- polarity(original_data$text, polarity.frame = dictionary_AFINN)$all
-  pol.df_ANEW <- polarity(original_data$text, polarity.frame = dictionary_ANEW)$all
+  #pol.df_ANEW <- polarity(original_data$text, polarity.frame = dictionary_ANEW)$all
   
   
   #add this result to the data
