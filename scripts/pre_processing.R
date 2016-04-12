@@ -1,4 +1,6 @@
-preProcessing <- function()
+library(tm)
+
+preProcessing <- function(stem)
 {
   #setwd("~/fep-ecd2")
   
@@ -18,8 +20,9 @@ preProcessing <- function()
                               "subject_matter" = original_data$subject_matter,
                               "subject_matter_confidence" = original_data$subject_matter_confidence,
                               "sentiment" = original_data$sentiment,
-                              "sentiment_confidence" = original_data$sentiment_confidence
-  ) 
+                              "sentiment_confidence" = original_data$sentiment_confidence)
+  
+  original_data$text <- as.character(original_data$text)
   
   # text cleaning: http://colinpriest.com/2015/07/04/tutorial-using-r-and-twitter-to-analyse-consumer-sentiment/
   #text <- original_data$text
@@ -28,32 +31,41 @@ preProcessing <- function()
   ##### Text cleaning ############
   ################################
   
-  # remove retweet entities
-  original_data$text = gsub("(RT|via)((?:\\b\\W*@\\w+)+)", "", original_data$text)
-  # remove at people
-  original_data$text = gsub("@\\w+", "", original_data$text)
-  # remove punctuation
-  original_data$text = gsub("[[:punct:]]", "", original_data$text)
-  # remove numbers
-  original_data$text = gsub("[[:digit:]]", "", original_data$text)
-  # remove html links
-  original_data$text = gsub("http\\w+", "", original_data$text)
+  # Remove non-ASCII characters:
+  Encoding(original_data$text) <- "latin1"
+  original_data$text <- iconv(original_data$text, "latin1", "ASCII", sub="")
   
-  # define "tolower error handling" function
-  try.error = function(x)
-  {
-    # create missing value
-    y = NA
-    # tryCatch error
-    try_error = tryCatch(tolower(x), error=function(e) e)
-    # if not an error
-    if (!inherits(try_error, "error"))
-      y = tolower(x)
-    # result
-    return(y)
-  }
-  # lower case using try.error with sapply
-  original_data$text = sapply(original_data$text, try.error)
+  ## Twitter related:
+  # Remove retweet entities
+  original_data$text <- gsub("(RT|via)((?:\\b\\W*@\\w+)+)", "", original_data$text)
+  # Remove @ people
+  original_data$text <- gsub("@\\w+", "", original_data$text)
+  # Remove html links
+  original_data$text <- gsub("http[^[:space:]]*", "", original_data$text)
+  
+  ## Other:
+  tm_text <- Corpus(VectorSource(original_data$text))
+  
+  # Remove numbers:
+  tm_text <- tm_map(tm_text, removeNumbers)   
+  # To lowercase:
+  tm_text <- tm_map(tm_text, content_transformer(tolower))
+  # Remove common words in english language:
+  #tm_text <- tm_map(tm_text, removeWords, stopwords("english"))
+  # Remove ponctuation:
+  tm_text <- tm_map(tm_text, removePunctuation)
+  # Remove whitespace:
+  tm_text <- tm_map(tm_text, stripWhitespace)
+  # Text stemming:
+  if (stem)
+    tm_text <- tm_map(tm_text, stemDocument)
+  
+  original_data$text <- unlist(sapply(tm_text, `[`, "content"))
+  
+  # remove punctuation
+  #original_data$text = gsub("[[:punct:]]", "", original_data$text)
+  # remove numbers
+  #original_data$text = gsub("[[:digit:]]", "", original_data$text)
   
   ####################################
   ######## Filter data rows ##########
@@ -65,4 +77,5 @@ preProcessing <- function()
   return(original_data)
 }
 
-original_data <- preProcessing()
+original_data <- preProcessing(stem = FALSE)
+original_data_stemming <- preProcessing(stem = TRUE)

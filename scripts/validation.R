@@ -8,27 +8,28 @@ library(caret)
 
 # Read results saved before:
 sentiment_scores_manual <- read.csv("csv_data/sentiment_manual.csv")
+sentiment_scores_manual_stemming <- read.csv("csv_data/sentiment_manual_stemming.csv")
 sentiment_scores_qdap_default <- read.csv("csv_data/sentiment_qdap_default.csv")
 sentiment_scores_qdap_afinn <- read.csv("csv_data/sentiment_qdap_afinn.csv")
+sentiment_scores_qdap_default_stemming <- read.csv("csv_data/sentiment_qdap_default_stemming.csv")
+sentiment_scores_qdap_afinn_stemming <- read.csv("csv_data/sentiment_qdap_afinn_stemming.csv")
 
 # Convert the numeric sentiment values to classes:
-attach(sentiment_scores_manual)
-sentiment_scores_manual$sentiment[score >= 0] <- "Positive"
-sentiment_scores_manual$sentiment[score < 0] <- "Negative"
-sentiment_scores_manual$sentiment <- as.factor(sentiment_scores_manual$sentiment)
-detach(sentiment_scores_manual) 
+convertSentimentFactor <- function(data)
+{
+  data$sentiment[data$score >= 0] <- "Positive"
+  data$sentiment[data$score < 0] <- "Negative"
+  data$sentiment <- as.factor(data$sentiment)
+  return(data)
+}
 
-attach(sentiment_scores_qdap_default)
-sentiment_scores_qdap_default$sentiment[score >= 0] <- "Positive"
-sentiment_scores_qdap_default$sentiment[score < 0] <- "Negative"
-sentiment_scores_qdap_default$sentiment <- as.factor(sentiment_scores_qdap_default$sentiment)
-detach(sentiment_scores_qdap_default)
+sentiment_scores_manual <- convertSentimentFactor(sentiment_scores_manual)
+sentiment_scores_manual_stemming <- convertSentimentFactor(sentiment_scores_manual_stemming)
+sentiment_scores_qdap_default <- convertSentimentFactor(sentiment_scores_qdap_default)
+sentiment_scores_qdap_afinn <- convertSentimentFactor(sentiment_scores_qdap_afinn)
+sentiment_scores_qdap_default_stemming <- convertSentimentFactor(sentiment_scores_qdap_default_stemming)
+sentiment_scores_qdap_afinn_stemming <- convertSentimentFactor(sentiment_scores_qdap_afinn_stemming)
 
-attach(sentiment_scores_qdap_afinn)
-sentiment_scores_qdap_afinn$sentiment[score >= 0] <- "Positive"
-sentiment_scores_qdap_afinn$sentiment[score < 0] <- "Negative"
-sentiment_scores_qdap_afinn$sentiment <- as.factor(sentiment_scores_qdap_afinn$sentiment)
-detach(sentiment_scores_qdap_afinn)
 
 
 ##########################################
@@ -52,23 +53,27 @@ validationStatistics <- function (predictions, y, positiveClass)
   return(list(precision = precision, recall = recall, f1 = f1))
 }
 
-# Validate manual approach
-validationStatistics(sentiment_scores_manual$sentiment, 
-                     original_data$sentiment,
-                     "Positive")
+# Precision, Recall, F1:
+
+# Validate manual approach:
+validationStatistics(sentiment_scores_manual$sentiment, original_data$sentiment, "Positive")
+
+# Validate manual approach (stemming):
+validationStatistics(sentiment_scores_manual_stemming$sentiment, original_data_stemming$sentiment, "Positive")
+
+# Validate qdap default approach:
+validationStatistics(sentiment_scores_qdap_default$sentiment, original_data$sentiment, "Positive")
+
+# Validate qdap afinn approach:
+validationStatistics(sentiment_scores_qdap_afinn$sentiment, original_data$sentiment, "Positive")
+
+# Validate qdap default approach (stemming):
+validationStatistics(sentiment_scores_qdap_default_stemming$sentiment, original_data_stemming$sentiment, "Positive")
+
+# Validate qdap afinn stemming (stemming);
+validationStatistics(sentiment_scores_qdap_afinn_stemming$sentiment, original_data_stemming$sentiment, "Positive")
+
 
 # confusionMatrix(sentiment_scores_manual$sentiment, original_data$sentiment, "Positive")
-
-# Validate qdap default approach
-validationStatistics(sentiment_scores_qdap_default$sentiment, 
-                     original_data$sentiment,
-                     "Positive")
-
 # confusionMatrix(sentiment_scores_qdap_default$sentiment, original_data$sentiment, "Positive")
-
-# Validate qdap afinn approach
-validationStatistics(sentiment_scores_qdap_afinn$sentiment, 
-                     original_data$sentiment,
-                     "Positive")
-
 # confusionMatrix(sentiment_scores_qdap_afinn$sentiment, original_data$sentiment, "Positive")
