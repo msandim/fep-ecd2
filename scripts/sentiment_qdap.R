@@ -4,8 +4,6 @@ library(data.table)
 sentimentQdap <- function(data, stem)
 {
   #http://www.r-bloggers.com/statistics-meets-rhetoric-a-text-analysis-of-i-have-a-dream-in-r/
-  
-  #qdaps sentiment analysis is based on a sentence-level formula classifying each word as either positive, negative, neutral, negator or amplifier, per Hu & Liu’s sentiment lexicon. The function also provides a word count.
   dictionary_AFINN <- read.csv("csv_data/AFINN-111.txt", stringsAsFactors = FALSE, header=FALSE, sep="\t")
   
   pol.df_Default <- polarity(original_data$text)$all
