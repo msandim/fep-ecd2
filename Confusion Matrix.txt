@@ -1,0 +1,35 @@
+          Reference
+Prediction Negative Positive
+  Negative     2548      148
+  Positive     5945     2088
+  Accuracy : 0.4321
+
+          Reference
+Prediction Negative Positive
+  Negative     2187      142
+  Positive     6306     2094
+  Accuracy : 0.399
+
+          Reference
+Prediction Negative Positive
+  Negative     2828      156
+  Positive     5665     2080
+  Accuracy : 0.4575
+
+          Reference
+Prediction Negative Positive
+  Negative     3164      312
+  Positive     5329     1924
+  Accuracy : 0.4742  
+
+          Reference
+Prediction Negative Positive
+  Negative     2828      156
+  Positive     5665     2080
+  Accuracy : 0.4575 
+
+          Reference
+Prediction Negative Positive
+  Negative     3164      312
+  Positive     5329     1924
+  Accuracy : 0.4742  

@@ -44,7 +44,7 @@ validationStatistics <- function (predictions, y, positiveClass)
 {
   # Calculate precision and recall:
   result <- confusionMatrix(predictions, y, positiveClass)
-  print(result$table)
+  print(result)
   precision <- result$byClass[['Pos Pred Value']]
   recall <- result$byClass[['Sensitivity']]
   
