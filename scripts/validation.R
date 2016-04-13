@@ -44,6 +44,7 @@ validationStatistics <- function (predictions, y, positiveClass)
 {
   # Calculate precision and recall:
   result <- confusionMatrix(predictions, y, positiveClass)
+  print(result$table)
   precision <- result$byClass[['Pos Pred Value']]
   recall <- result$byClass[['Sensitivity']]
   
@@ -53,27 +54,53 @@ validationStatistics <- function (predictions, y, positiveClass)
   return(list(precision = precision, recall = recall, f1 = f1))
 }
 
-# Precision, Recall, F1:
+#################################
+# 1 - Precision, Recall, F1:
+#################################
 
 # Validate manual approach:
-validationStatistics(sentiment_scores_manual$sentiment, original_data$sentiment, "Positive")
+res_man <- validationStatistics(sentiment_scores_manual$sentiment, original_data$sentiment, "Positive")
 
 # Validate manual approach (stemming):
-validationStatistics(sentiment_scores_manual_stemming$sentiment, original_data_stemming$sentiment, "Positive")
+res_man_stem <- validationStatistics(sentiment_scores_manual_stemming$sentiment, original_data_stemming$sentiment, "Positive")
 
 # Validate qdap default approach:
-validationStatistics(sentiment_scores_qdap_default$sentiment, original_data$sentiment, "Positive")
+res_qdap_deafault <- validationStatistics(sentiment_scores_qdap_default$sentiment, original_data$sentiment, "Positive")
 
 # Validate qdap afinn approach:
-validationStatistics(sentiment_scores_qdap_afinn$sentiment, original_data$sentiment, "Positive")
+res_qdap_afinn <- validationStatistics(sentiment_scores_qdap_afinn$sentiment, original_data$sentiment, "Positive")
 
 # Validate qdap default approach (stemming):
-validationStatistics(sentiment_scores_qdap_default_stemming$sentiment, original_data_stemming$sentiment, "Positive")
+res_qdap_deafault_stem <- validationStatistics(sentiment_scores_qdap_default_stemming$sentiment, original_data_stemming$sentiment, "Positive")
 
 # Validate qdap afinn stemming (stemming);
-validationStatistics(sentiment_scores_qdap_afinn_stemming$sentiment, original_data_stemming$sentiment, "Positive")
+res_qdap_afinn_stem <- validationStatistics(sentiment_scores_qdap_afinn_stemming$sentiment, original_data_stemming$sentiment, "Positive")
+
+###############
+#making a table
+###############
+
+res_man <- as.data.frame(res_man)
+res_man$test <- "manual"
+
+res_man_stem <- as.data.frame(res_man_stem)
+res_man_stem$test <- "manual with stemming"
+res_man <- rbind(res_man, res_man_stem)
+
+res_qdap_deafault <- as.data.frame(res_qdap_deafault)
+res_qdap_deafault$test <- "qdap default"
+res_man <- rbind(res_man, res_qdap_deafault)
+
+res_qdap_afinn <- as.data.frame(res_qdap_afinn)
+res_qdap_afinn$test <- "qdap afinn"
+res_man <- rbind(res_man, res_qdap_afinn)
 
 
-# confusionMatrix(sentiment_scores_manual$sentiment, original_data$sentiment, "Positive")
-# confusionMatrix(sentiment_scores_qdap_default$sentiment, original_data$sentiment, "Positive")
-# confusionMatrix(sentiment_scores_qdap_afinn$sentiment, original_data$sentiment, "Positive")
+res_qdap_deafault_stem <- as.data.frame(res_qdap_deafault_stem)
+res_qdap_deafault_stem$test <- "qdap default stemming"
+res_man <- rbind(res_man, res_qdap_deafault_stem)
+
+res_qdap_afinn_stem <- as.data.frame(res_qdap_afinn_stem)
+res_qdap_afinn_stem$test <- "qdap afinn stemming"
+res_man <- rbind(res_man, res_qdap_afinn_stem)
+
