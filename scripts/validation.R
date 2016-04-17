@@ -1,7 +1,5 @@
 library(caret)
 
-# Make sure to run pre_processing.R before
-
 # #######################################
 # ######## PREPARE VALIDATION ###########
 # #######################################
@@ -104,3 +102,4 @@ res_qdap_afinn_stem <- as.data.frame(res_qdap_afinn_stem)
 res_qdap_afinn_stem$test <- "qdap afinn stemming"
 res_man <- rbind(res_man, res_qdap_afinn_stem)
 
+res_man <- res_man %>% select(Method = test, Precision = precision, Recall = recall, F1 = f1)

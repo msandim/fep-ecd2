@@ -2,8 +2,6 @@ library(tm)
 
 preProcessing <- function(stem)
 {
-  #setwd("~/fep-ecd2")
-  
   ######################################
   #            Prepare data
   ######################################
@@ -62,17 +60,16 @@ preProcessing <- function(stem)
   
   original_data$text <- unlist(sapply(tm_text, `[`, "content"))
   
-  # remove punctuation
-  #original_data$text = gsub("[[:punct:]]", "", original_data$text)
-  # remove numbers
-  #original_data$text = gsub("[[:digit:]]", "", original_data$text)
-  
   ####################################
   ######## Filter data rows ##########
   ####################################
   
+  # Delete neutrals
   original_data <- original_data[original_data$sentiment != "Neutral",]
   original_data$sentiment <- factor(original_data$sentiment)
+  # Process no candidate mentioned
+  original_data$candidate[original_data$candidate == ""] <- "No candidate mentioned"
+  original_data$candidate <- factor(original_data$candidate)
   
   return(original_data)
 }
