@@ -1,0 +1,98 @@
+Graham Cormode, S. Muthukrishnan, An improved data stream summary: the count-min sketch and its applications, Journal of Algorithms, Volume 55, Issue 1, April 2005, Pages 58-75, ISSN 0196-6774, http://dx.doi.org/10.1016/j.jalgor.2003.12.001.
+(http://www.sciencedirect.com/science/article/pii/S0196677403001913)
+
+Kuan-Yu Chen, Kun-Mao Chao, Optimal algorithms for locating the longest and shortest segments satisfying a sum or an average constraint, Information Processing Letters, Volume 96, Issue 6, 31 December 2005, Pages 197-201, ISSN 0020-0190, http://dx.doi.org/10.1016/j.ipl.2005.08.006.
+(http://www.sciencedirect.com/science/article/pii/S0020019005002206)
+Keywords: Sequence analysis; Longest segment; Shortest segment; Algorithms
+
+Stéphane Maritorena, David A. Siegel, Consistent merging of satellite ocean color data sets using a bio-optical model, Remote Sensing of Environment, Volume 94, Issue 4, 28 February 2005, Pages 429-440, ISSN 0034-4257, http://dx.doi.org/10.1016/j.rse.2004.08.014.
+(http://www.sciencedirect.com/science/article/pii/S0034425704002834)
+Keywords: Ocean color; Data merging; Bio-optical model; SeaWIFS; MODIS
+
+Shi Zhong, Efficient streaming text clustering, Neural Networks, Volume 18, Issues 5–6, July–August 2005, Pages 790-798, ISSN 0893-6080, http://dx.doi.org/10.1016/j.neunet.2005.06.008.
+(http://www.sciencedirect.com/science/article/pii/S0893608005001413)
+keywords: Text clustering; Streaming clustering; Spherical k-means; Competitive learning
+
+Y.W. Song, Z. Pan, Y. Arieli, S.M.R. Motaghian, S.A. Havstad, A.E. Willner, Immunization of WDM systems to nonlinearity-induced crosstalk using optical polarization-shift-keying, Optics Communications, Volume 252, Issues 1–3, 1 August 2005, Pages 162-166, ISSN 0030-4018, http://dx.doi.org/10.1016/j.optcom.2005.04.010.
+(http://www.sciencedirect.com/science/article/pii/S0030401805003317)
+Keywords: Optical signal transmission; Optical modulation format; Fiber nonlinearity
+
+J. Heise, S. McGee, K. Rielage, Installation and Operation of the SNO Neutral Current Detector Array, Nuclear Physics B - Proceedings Supplements, Volume 143, June 2005, Page 496, ISSN 0920-5632, http://dx.doi.org/10.1016/j.nuclphysbps.2005.01.161.
+(http://www.sciencedirect.com/science/article/pii/S0920563205001957)
+
+Giancarlo Fortino, Carlo Mastroianni, Wilma Russo, Cooperative control of multicast-based streaming on-demand systems, Future Generation Computer Systems, Volume 21, Issue 5, May 2005, Pages 823-839, ISSN 0167-739X, http://dx.doi.org/10.1016/j.future.2004.08.002.
+(http://www.sciencedirect.com/science/article/pii/S0167739X05000051)
+Keywords: Multicasting; Cooperative playback systems; Synchronous group coordination; Discrete event simulation
+
+S. D'Auria, CP violation and CKM measurements in Bottom and Charm decays at CDF, Nuclear Physics B - Proceedings Supplements, Volume 142, May 2005, Pages 326-332, ISSN 0920-5632, http://dx.doi.org/10.1016/j.nuclphysbps.2005.01.056.
+(http://www.sciencedirect.com/science/article/pii/S0920563205000575)
+
+Wilton C. Levine, Mark Meyer, Philip Brzezinski, Jeffrey Robbins, Warren S. Sandberg, Computer automated total perioperative situational awareness and safety systems, International Congress Series, Volume 1281, May 2005, Pages 856-861, ISSN 0531-5131, http://dx.doi.org/10.1016/j.ics.2005.03.241.
+(http://www.sciencedirect.com/science/article/pii/S0531513105004991)
+Keywords: Patient safety; Data integration; Perioperative situational awareness; OR of the Future
+
+Angeline Wong, Leejay Wu, Phillip B. Gibbons, Christos Faloutsos, Fast estimation of fractal dimension and correlation integral on stream data, Information Processing Letters, Volume 93, Issue 2, 31 January 2005, Pages 91-97, ISSN 0020-0190, http://dx.doi.org/10.1016/j.ipl.2004.09.018.
+(http://www.sciencedirect.com/science/article/pii/S0020019004002868)
+Keywords: Approximation algorithms; Databases; Randomized algorithms; Fractal dimension; Box counting
+
+Jan L. Harrington, Chapter 11 - Wireless Security, In The Morgan Kaufmann Series in Networking, Morgan Kaufmann, San Francisco, 2005, Pages 259-277, ISSN 18759351, Network Security, ISBN 9780123116338, http://dx.doi.org/10.1016/B978-012311633-8/50011-0.
+(http://www.sciencedirect.com/science/article/pii/B9780123116338500110)
+
+J. Efrim Boritz, IS practitioners' views on core concepts of information integrity, International Journal of Accounting Information Systems, Volume 6, Issue 4, December 2005, Pages 260-279, ISSN 1467-0895, http://dx.doi.org/10.1016/j.accinf.2005.07.001.
+(http://www.sciencedirect.com/science/article/pii/S1467089505000473)
+Keywords: Information integrity; Data quality; Data integrity
+
+Lanlan Gu, Feng Zhao, Zhong Shi, Jian Liu, Ray T. Chen, Four-channel coarse WDM for inter- and intra-satellite optical communications, Optics & Laser Technology, Volume 37, Issue 7, October 2005, Pages 551-554, ISSN 0030-3992, http://dx.doi.org/10.1016/j.optlastec.2004.08.007.
+(http://www.sciencedirect.com/science/article/pii/S0030399204001665)
+Keywords: Wavelength division multiplexing; Satellite communication; Holographic gratings
+
+Umakishore Ramachandran, Martin Modahl, Ilya Bagrak, Matthew Wolenetz, David Lillethun, Bin Liu, James Kim, Phillip Hutto, Ramesh Jain, MediaBroker: A pervasive computing infrastructure for adaptive transformation and sharing of stream data, Pervasive and Mobile Computing, Volume 1, Issue 2, July 2005, Pages 257-276, ISSN 1574-1192, http://dx.doi.org/10.1016/j.pmcj.2005.03.003.
+(http://www.sciencedirect.com/science/article/pii/S1574119205000222)
+Keywords: Pervasive computing; Sensor-based distributed computing; Streaming data; Dynamic adaptive systems
+
+Robert L. Grossman, Yunhong Gu, Xinwei Hong, Antony Antony, Johan Blom, Freek Dijkstra, Cees de Laat, Teraflows over Gigabit WANs with UDT, Future Generation Computer Systems, Volume 21, Issue 4, April 2005, Pages 501-513, ISSN 0167-739X, http://dx.doi.org/10.1016/j.future.2004.10.007.
+(http://www.sciencedirect.com/science/article/pii/S0167739X04001694)
+Keywords: UDT; Bandwidth delay product (BDP); Grid networking; Transport protocol; High speed WANs
+
+R. Enzler, C. Plessl, M. Platzner, System-level performance evaluation of reconfigurable processors, Microprocessors and Microsystems, Volume 29, Issues 2–3, 1 April 2005, Pages 63-73, ISSN 0141-9331, http://dx.doi.org/10.1016/j.micpro.2004.06.004.
+(http://www.sciencedirect.com/science/article/pii/S0141933104000821)
+Keywords: Field-programmable gate arrays; Reconfigurable computing; Hybrid reconfigurable processors; Co-simulation; VHDL
+
+M.F. McCabe, S.W. Franks, J.D. Kalma, Calibration of a land surface model using multiple data sets, Journal of Hydrology, Volume 302, Issues 1–4, 1 February 2005, Pages 209-222, ISSN 0022-1694, http://dx.doi.org/10.1016/j.jhydrol.2004.07.002.
+(http://www.sciencedirect.com/science/article/pii/S0022169404003786)
+Keywords: Land surface modelling; Evapotranspiration; Uncertainty modelling; Multi-objective calibration; Land surface temperature
+
+Markus Hofmann and Leland Beaumont, Chapter 4 - Caching Techniques for Streaming Media, In The Morgan Kaufmann Series in Networking, Morgan Kaufmann, San Francisco, 2005, Pages 81-107, ISSN 18759351, Content Networking, ISBN 9781558608344, http://dx.doi.org/10.1016/B978-155860834-4/50023-8.
+(http://www.sciencedirect.com/science/article/pii/B9781558608344500238)
+
+Carl James Schwarz, Chapter 28 - Estimation of Movement from Tagging Data, In Stock Identification Methods, Academic Press, Burlington, 2005, Pages 591-606, ISBN 9780121543518, http://dx.doi.org/10.1016/B978-012154351-8/50029-0.
+(http://www.sciencedirect.com/science/article/pii/B9780121543518500290)
+
+Godfrey C. Onwubolu, Chapter 5 - Analog electronics, In Mechatronics, Butterworth-Heinemann, Oxford, 2005, Pages 169-199, ISBN 9780750663793, http://dx.doi.org/10.1016/B978-075066379-3/50006-9.
+(http://www.sciencedirect.com/science/article/pii/B9780750663793500069)
+
+Roy Danchick, A ranked linear assignment approach to Bayesian classification, Applied Mathematics and Computation, Volume 162, Issue 1, 4 March 2005, Pages 265-281, ISSN 0096-3003, http://dx.doi.org/10.1016/j.amc.2003.12.136.
+(http://www.sciencedirect.com/science/article/pii/S0096300304000876)
+Keywords: Bayesian classification; Linear assignment problem; Ranked assignments; Probability
+
+Farhad Arbab, Abstract Behavior Types: a foundation model for components and their composition, Science of Computer Programming, Volume 55, Issues 1–3, March 2005, Pages 3-52, ISSN 0167-6423, http://dx.doi.org/10.1016/j.scico.2004.05.010.
+(http://www.sciencedirect.com/science/article/pii/S0167642304001455)
+Keywords: Coordination; Components; Composition; Abstract Behavior Types; Reo; Coalgebraic semantics; Streams
+
+J.V. Tucker, J.I. Zucker, Computable total functions on metric algebras, universal algebraic specifications and dynamical systems, The Journal of Logic and Algebraic Programming, Volume 62, Issue 1, 1 January 2005, Pages 71-108, ISSN 1567-8326, http://dx.doi.org/10.1016/j.jlap.2003.10.001.
+(http://www.sciencedirect.com/science/article/pii/S1567832603000791)
+Keywords: Many-sorted algebra; Topological algebra; Metric algebra; Uniform continuity; Computable function; Computable approximations; While programs; Countable choice; Conditional equations
+
+Dave D’haeze, Dirk Raes, Jozef Deckers, T.A. Phong, H.V. Loi, Groundwater extraction for irrigation of Coffea canephora in Ea Tul watershed, Vietnam—a risk evaluation, Agricultural Water Management, Volume 73, Issue 1, 20 April 2005, Pages 1-19, ISSN 0378-3774, http://dx.doi.org/10.1016/j.agwat.2004.10.003.
+(http://www.sciencedirect.com/science/article/pii/S0378377404002707)
+Keywords: Coffea canephora; Irrigation; Groundwater recharge; Water balance; Vietnam
+
+Damianos Chatziantoniou, Theodore Johnson, Decision support queries on a tape-resident data warehouse, Information Systems, Volume 30, Issue 2, April 2005, Pages 133-149, ISSN 0306-4379, http://dx.doi.org/10.1016/j.is.2003.11.003.
+(http://www.sciencedirect.com/science/article/pii/S0306437903001194)
+Keywords: Tape databases; Decision support; Data warehousing; Query processing
+
+Astrid Hagen, Andrew Morris, Recent advances in the multi-stream HMM/ANN hybrid approach to noise robust ASR, Computer Speech & Language, Volume 19, Issue 1, January 2005, Pages 3-30, ISSN 0885-2308, http://dx.doi.org/10.1016/j.csl.2003.12.002.
+(http://www.sciencedirect.com/science/article/pii/S0885230804000026)
+Keywords: Hidden Markov model; Artificial neural network; Gaussian mixture model; Multi-band; Multi-stream; Expert combination; Robust speech recognition
+
+

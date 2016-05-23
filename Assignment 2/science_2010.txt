@@ -1,0 +1,187 @@
+S. Ballesteros, M. Martínez-Arrieta, M. Ramón, Toxic surveillance using poison control centre data-stream, Toxicology Letters, Volume 196, Supplement, 17 July 2010, Page S2, ISSN 0378-4274, http://dx.doi.org/10.1016/j.toxlet.2010.03.026.
+(http://www.sciencedirect.com/science/article/pii/S0378427410001554)
+
+Alfredo Cuzzocrea, Sharma Chakravarthy, Event-based lossy compression for effective and efficient OLAP over data streams, Data & Knowledge Engineering, Volume 69, Issue 7, July 2010, Pages 678-708, ISSN 0169-023X, http://dx.doi.org/10.1016/j.datak.2010.02.006.
+(http://www.sciencedirect.com/science/article/pii/S0169023X10000303)
+Keywords: Data stream query processing; Data stream compression methodologies and techniques; Knowledge discovery from data streams; OLAP over data streams; Event-based data stream processing; Event-based data stream compression
+
+Wen Zhang, Junwei Cao, Yisheng Zhong, Lianchen Liu, Cheng Wu, Concurrent and Storage-Aware Data Streaming for Data Processing Workflows in Grid Environments, Tsinghua Science & Technology, Volume 15, Issue 3, June 2010, Pages 335-346, ISSN 1007-0214, http://dx.doi.org/10.1016/S1007-0214(10)70071-7.
+(http://www.sciencedirect.com/science/article/pii/S1007021410700717)
+Key words: grid; data streaming; concurrent; storage-aware; workflow
+
+Wei Hou, Bingru Yang, Chensheng Wu, Zhun Zhou, RedTrees: A relational decision tree algorithm in streams, Expert Systems with Applications, Volume 37, Issue 9, September 2010, Pages 6265-6269, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2010.02.096.
+(http://www.sciencedirect.com/science/article/pii/S0957417410001351)
+Keywords: Data ming; Multi-relational data streams; Decision tree; Period sampling
+
+Eric P. Kasten, Philip K. McKinley, Stuart H. Gage, Ensemble extraction for classification and detection of bird species, Ecological Informatics, Volume 5, Issue 3, May 2010, Pages 153-166, ISSN 1574-9541, http://dx.doi.org/10.1016/j.ecoinf.2010.02.003.
+(http://www.sciencedirect.com/science/article/pii/S1574954110000361)
+Keywords: Acoustics; Data stream; Ensemble; Pattern recognition; Remote sensing; Time series analysis
+
+Jih-Ching Chiu, Yu-Liang Chou, A multi-streaming SIMD multimedia computing engine, Microprocessors and Microsystems, Volume 34, Issues 7–8, November 2010, Pages 247-258, ISSN 0141-9331, http://dx.doi.org/10.1016/j.micpro.2010.05.002.
+(http://www.sciencedirect.com/science/article/pii/S0141933110000293)
+Keywords: SIMD; Multimedia processing; PIM; Processor-In-Memory; Multimedia extensions; MMX
+
+David J. Hill, Barbara S. Minsker, Anomaly detection in streaming environmental sensor data: A data-driven modeling approach, Environmental Modelling & Software, Volume 25, Issue 9, September 2010, Pages 1014-1022, ISSN 1364-8152, http://dx.doi.org/10.1016/j.envsoft.2009.08.010.
+(http://www.sciencedirect.com/science/article/pii/S1364815209002321)
+Keywords: Coastal environment; Data-driven modeling; Anomaly detection; Machine learning; Real-time data; Sensor networks; Data quality control; Artificial intelligence
+
+Nam Hun Park, Sang Hyun Oh, Won Suk Lee, Anomaly intrusion detection by clustering transactional audit streams in a host computer, Information Sciences, Volume 180, Issue 12, 15 June 2010, Pages 2375-2389, ISSN 0020-0255, http://dx.doi.org/10.1016/j.ins.2010.03.001.
+(http://www.sciencedirect.com/science/article/pii/S0020025510001131)
+Keywords: Anomaly detection; Intrusion detection; Clustering data streams
+
+Lin Gui, Kun Xu, Dapeng Wang, Jian Wu, Xiaobing Hong, Yitang Dai, Junyi Zhang, Jintong Lin, Character analysis of slow light with communication waveband in fiber optical parametric amplifier, Optics Communications, Volume 283, Issue 21, 1 November 2010, Pages 4350-4357, ISSN 0030-4018, http://dx.doi.org/10.1016/j.optcom.2010.06.033.
+(http://www.sciencedirect.com/science/article/pii/S0030401810006450)
+Keywords: Nonlinear optics; Parametric processes; Fiber optic parametric amplifier; Slow light
+
+Xiangyu Kong, Changhua Hu, Chongzhao Han, A self-stabilizing MSA algorithm in high-dimension data stream, Neural Networks, Volume 23, Issue 7, September 2010, Pages 865-871, ISSN 0893-6080, http://dx.doi.org/10.1016/j.neunet.2010.04.001.
+(http://www.sciencedirect.com/science/article/pii/S0893608010000821)
+Keywords: Minor subspace analysis (MSA); Neural network; Eigenvalue; Eigenvector; Adaptive algorithm
+
+Nuno Homem, Joao Paulo Carvalho, Finding top-k elements in data streams, Information Sciences, Volume 180, Issue 24, 15 December 2010, Pages 4958-4974, ISSN 0020-0255, http://dx.doi.org/10.1016/j.ins.2010.08.024.
+(http://www.sciencedirect.com/science/article/pii/S002002551000397X)
+Keywords: Approximate algorithms; Top-k algorithms; Most frequent; Estimation; Data stream frequencies
+
+Pauray S.M. Tsai, Mining top-k frequent closed itemsets over data streams using the sliding window model, Expert Systems with Applications, Volume 37, Issue 10, October 2010, Pages 6968-6973, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2010.03.023.
+(http://www.sciencedirect.com/science/article/pii/S0957417410002046)
+Keywords: Data mining; Data stream; Association rule; Frequent closed itemset; Sliding window
+
+Florin Sandu, Iuliu Szekely, Dan Robu, Alexandru Balica, Performance measurement for mobile data streaming, Computer Standards & Interfaces, Volume 32, Issue 3, March 2010, Pages 73-85, ISSN 0920-5489, http://dx.doi.org/10.1016/j.csi.2009.11.001.
+(http://www.sciencedirect.com/science/article/pii/S0920548909000932)
+Keywords: Data streaming; Remote monitoring; Technical limitations; GPRS; UMTS
+
+James Bailey, Elsa Loekito, Efficient incremental mining of contrast patterns in changing data, Information Processing Letters, Volume 110, Issue 3, 1 January 2010, Pages 88-92, ISSN 0020-0190, http://dx.doi.org/10.1016/j.ipl.2009.10.012.
+(http://www.sciencedirect.com/science/article/pii/S0020019009003111)
+Keywords: Data mining; Contrast patterns; Databases
+
+Francesco Buccafurri, Gianluca Lax, Approximating sliding windows by cyclic tree-like histograms for efficient range queries, Data & Knowledge Engineering, Volume 69, Issue 9, September 2010, Pages 979-997, ISSN 0169-023X, http://dx.doi.org/10.1016/j.datak.2010.05.002.
+(http://www.sciencedirect.com/science/article/pii/S0169023X10000753)
+Keywords: Data stream summarization; Histograms; Sliding windows; Range queries
+
+L. Zabeo, F. Sartori, A. Neto, F. Piccolo, D. Alves, R. Vitelli, A. Barbalace, G. De Tommasi, Continuous data recording on fast real-time systems, Fusion Engineering and Design, Volume 85, Issues 3–4, July 2010, Pages 374-377, ISSN 0920-3796, http://dx.doi.org/10.1016/j.fusengdes.2010.02.006.
+(http://www.sciencedirect.com/science/article/pii/S0920379610000323)
+Keywords: Real-time; RTAI; Data streaming
+
+Marco Schmidt, Jan Bolvansky, Klaus Schilling, Satellite operation improvement through efficient data combination in ground station networks, IFAC Proceedings Volumes, Volume 43, Issue 15, 2010, Pages 524-530, ISSN 1474-6670, http://dx.doi.org/10.3182/20100906-5-JP-2022.00089.
+(http://www.sciencedirect.com/science/article/pii/S1474667015318942)
+Keywords: ground station networks; small satellites; data management.
+
+Marco Benocci, Carlo Tacconi, Elisabetta Farella, Luca Benini, Lorenzo Chiari, Laura Vanzago, Accelerometer-based fall detection using optimized ZigBee data streaming, Microelectronics Journal, Volume 41, Issue 11, November 2010, Pages 703-710, ISSN 0026-2692, http://dx.doi.org/10.1016/j.mejo.2010.06.014.
+(http://www.sciencedirect.com/science/article/pii/S0026269210001163)
+Keywords: WBSN; ZigBee; Accelerometer; Fall detection
+
+Zhihao Zhang, Jie Zhou, Transfer estimation of evolving class priors in data stream classification, Pattern Recognition, Volume 43, Issue 9, September 2010, Pages 3151-3161, ISSN 0031-3203, http://dx.doi.org/10.1016/j.patcog.2010.03.021.
+(http://www.sciencedirect.com/science/article/pii/S003132031000141X)
+Keywords: Concept drift; Transfer learning; Prior estimation
+
+Daniel Zinn, Shawn Bowers, Sven Köhler, Bertram Ludäscher, Parallelizing XML data-streaming workflows via MapReduce, Journal of Computer and System Sciences, Volume 76, Issue 6, September 2010, Pages 447-463, ISSN 0022-0000, http://dx.doi.org/10.1016/j.jcss.2009.11.006.
+(http://www.sciencedirect.com/science/article/pii/S0022000009001226)
+Keywords: MapReduce; XML processing pipelines; Collection-Oriented Modeling and Design (COMAD); Virtual Data Assembly Line (VDAL); Parallelization; Static analysis; Grouping; Data stream processing
+
+Guy Feigenblat, Ofra Itzhaki, Ely Porat, The frequent items problem, under polynomial decay, in the streaming model, Theoretical Computer Science, Volume 411, Issues 34–36, 17 July 2010, Pages 3048-3054, ISSN 0304-3975, http://dx.doi.org/10.1016/j.tcs.2010.04.029.
+(http://www.sciencedirect.com/science/article/pii/S0304397510002343)
+Keywords: Streaming; Frequency count; Polynomial decay functions; Algorithms
+
+Zhichun Li, Yan Gao, Yan Chen, HiFIND: A high-speed flow-level intrusion detection approach with DoS resiliency, Computer Networks, Volume 54, Issue 8, 1 June 2010, Pages 1282-1299, ISSN 1389-1286, http://dx.doi.org/10.1016/j.comnet.2009.10.016.
+(http://www.sciencedirect.com/science/article/pii/S1389128609003375)
+Keywords: Network monitoring; Network-level security and protection; Intrusion detection; Statistical detection; Data streaming; Attack resilience
+
+Sascha Klüppelholz, Christel Baier, Alternating-time stream logic for multi-agent systems, Science of Computer Programming, Volume 75, Issue 6, 1 June 2010, Pages 398-425, ISSN 0167-6423, http://dx.doi.org/10.1016/j.scico.2009.07.007.
+(http://www.sciencedirect.com/science/article/pii/S0167642309001166)
+Keywords: Alternating-time temporal logic; Data streams; Coordination; Automata; Concurrent games; Model checking
+
+Yousuke Watanabe, Hiroyuki Kitagawa, Query result caching for multiple event-driven continuous queries, Information Systems, Volume 35, Issue 1, January 2010, Pages 94-110, ISSN 0306-4379, http://dx.doi.org/10.1016/j.is.2009.04.003.
+(http://www.sciencedirect.com/science/article/pii/S0306437909000398)
+Keywords: Data stream; Continuous query; Optimization; Cache
+
+D.H. Kong, H.L. Zhu, S. Liang, X.F. Zhao, C.X. Lou, L. Wang, B.J. Wang, L.J. Zhao, All-optical clock recovery using a ridge width varied two-section partly gain-coupled DFB self-pulsation laser, Optics Communications, Volume 283, Issue 20, 15 October 2010, Pages 3970-3975, ISSN 0030-4018, http://dx.doi.org/10.1016/j.optcom.2010.06.022.
+(http://www.sciencedirect.com/science/article/pii/S0030401810006346)
+Keywords: Self-pulsation; Clock recovery; DFB laser
+
+Kenji Tabata, Maiko Sato, Mineichi Kudo, Data compression by volume prototypes for streaming data, Pattern Recognition, Volume 43, Issue 9, September 2010, Pages 3162-3176, ISSN 0031-3203, http://dx.doi.org/10.1016/j.patcog.2010.03.012.
+(http://www.sciencedirect.com/science/article/pii/S0031320310001329)
+Keywords: Volume prototypes; One-pass algorithm; Streaming data; Concept drift
+
+Daniele Covi, Carmela Cavallotti, Monica Vatteroni, Luca Clementel, Pietro Valdastri, Arianna Menciassi, Paolo Dario, Alvise Sartori, Miniaturized digital camera system for disposable endoscopic applications, Sensors and Actuators A: Physical, Volume 162, Issue 2, August 2010, Pages 291-296, ISSN 0924-4247, http://dx.doi.org/10.1016/j.sna.2010.03.031.
+(http://www.sciencedirect.com/science/article/pii/S0924424710001366)
+Keywords: Camera module; Disposable endoscopy; Endoscopic capsule
+
+Matt Patterson, Brian Caulfield, A method for monitoring reactive strength index, Procedia Engineering, Volume 2, Issue 2, June 2010, Pages 3115-3120, ISSN 1877-7058, http://dx.doi.org/10.1016/j.proeng.2010.04.120.
+(http://www.sciencedirect.com/science/article/pii/S1877705810003747)
+Keywords: Accelerometer; Feature extraction; Algorithm development; Reactive strength index; Validation; Force plate; Athletic performance
+
+Lukas Zenk, Christoph Stadtfeld, Dynamic organizations. How to measure evolution and change in organizations by analyzing email communication networks, Procedia - Social and Behavioral Sciences, Volume 4, 2010, Pages 14-25, ISSN 1877-0428, http://dx.doi.org/10.1016/j.sbspro.2010.07.479.
+(http://www.sciencedirect.com/science/article/pii/S1877042810018537)
+Keywords: Dynamic networks; organizational network analysis; social network analysis; teams; exponential random graph models
+
+A. Kotb, S. Ma, Z. Chen, N.K. Dutta, G. Said, All optical logic NAND gate based on two-photon absorption in semiconductor optical amplifiers, Optics Communications, Volume 283, Issue 23, 1 December 2010, Pages 4707-4712, ISSN 0030-4018, http://dx.doi.org/10.1016/j.optcom.2010.06.092.
+(http://www.sciencedirect.com/science/article/pii/S003040181000725X)
+Keywords: Semiconductor optical amplifier; Two-photon absorption; Optical logic
+
+M. Tomasi, F. Barranco, M. Vanegas, J. Díaz, E. Ros, Fine grain pipeline architecture for high performance phase-based optical flow computation, Journal of Systems Architecture, Volume 56, Issue 11, November 2010, Pages 577-587, ISSN 1383-7621, http://dx.doi.org/10.1016/j.sysarc.2010.07.012.
+(http://www.sciencedirect.com/science/article/pii/S1383762110000871)
+Keywords: Optical flow; Embedded and real-time systems; FPGA
+
+R. Gupta, J.N. Bera, M. Mitra, Development of an embedded system and MATLAB-based GUI for online acquisition and analysis of ECG signal, Measurement, Volume 43, Issue 9, November 2010, Pages 1119-1126, ISSN 0263-2241, http://dx.doi.org/10.1016/j.measurement.2010.05.003.
+(http://www.sciencedirect.com/science/article/pii/S0263224110001144)
+Keywords: ECG; Serial communication; GUI; MATLAB; Feature extraction
+
+A. González-García, O. Pottiez, R. Grajales-Coutiño, B. Ibarra-Escamilla, E.A. Kuzin, Optical pulse compression and amplitude noise reduction using a non-linear optical loop mirror including a distributed Gires–Tournois etalon, Optics & Laser Technology, Volume 42, Issue 7, October 2010, Pages 1103-1111, ISSN 0030-3992, http://dx.doi.org/10.1016/j.optlastec.2010.02.002.
+(http://www.sciencedirect.com/science/article/pii/S0030399210000502)
+Keywords: Non-linear optical loop mirror; Gires–Tournois interferometer; Fibre Bragg grating
+
+Shih-Chieh Shie, Shinfeng D. Lin, Ji-Han Jiang, Visually imperceptible image hiding scheme based on vector quantization, Information Processing & Management, Volume 46, Issue 5, September 2010, Pages 495-501, ISSN 0306-4573, http://dx.doi.org/10.1016/j.ipm.2009.07.001.
+(http://www.sciencedirect.com/science/article/pii/S0306457309000752)
+Keywords: Image hiding; Vector quantization; Codebook; DES encryption; Secret image
+
+Frank H. Wilhelm, Paul Grossman, Emotions beyond the laboratory: Theoretical fundaments, study design, and analytic strategies for advanced ambulatory assessment, Biological Psychology, Volume 84, Issue 3, July 2010, Pages 552-569, ISSN 0301-0511, http://dx.doi.org/10.1016/j.biopsycho.2010.01.017.
+(http://www.sciencedirect.com/science/article/pii/S0301051110000359)
+Keywords: Emotion; Affective sciences; Ambulatory assessment; Ecological momentary assessment; Autonomic nervous system; Social and affective neuroscience; Anxiety; Stress; Methodology
+
+Ali Khajeh-Saeed, Stephen Poole, J. Blair Perot, Acceleration of the Smith–Waterman algorithm using single and multiple graphics processors, Journal of Computational Physics, Volume 229, Issue 11, 1 June 2010, Pages 4247-4258, ISSN 0021-9991, http://dx.doi.org/10.1016/j.jcp.2010.02.009.
+(http://www.sciencedirect.com/science/article/pii/S0021999110000823)
+Keywords: Smith–Waterman; Sequence matching; Parallel scan; GPU; Graphics processor
+
+Deborah S. Gross, Robert Atlas, Jeffrey Rzeszotarski, Emma Turetsky, Janara Christensen, Sami Benzaid, Jamie Olson, Thomas Smith, Leah Steinberg, Jon Sulman, Anna Ritz, Benjamin Anderson, Catherine Nelson, David R. Musicant, Lei Chen, David C. Snyder, James J. Schauer, Environmental chemistry through intelligent atmospheric data analysis, Environmental Modelling & Software, Volume 25, Issue 6, June 2010, Pages 760-769, ISSN 1364-8152, http://dx.doi.org/10.1016/j.envsoft.2009.12.001.
+(http://www.sciencedirect.com/science/article/pii/S1364815209003041)
+Keywords: Mass spectrometry; Clustering; Aerosol particle; Data mining; Database design; Data and knowledge visualization; User interfaces
+
+A. Horneffer, L. Bähren, S. Buitink, A. Corstanje, H. Falcke, J.R. Hörandel, S. Lafebre, O. Scholten, K. Singh, S. Thoudam, S. ter Veen, Cosmic ray and neutrino measurements with LOFAR, Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, Volume 617, Issues 1–3, 11–21 May 2010, Pages 482-483, ISSN 0168-9002, http://dx.doi.org/10.1016/j.nima.2009.10.092.
+(http://www.sciencedirect.com/science/article/pii/S0168900209020208)
+Keywords: LOFAR; Cosmic rays; Cosmic neutrinos
+
+Alejandro H. Toselli, Verónica Romero, Moisés Pastor, Enrique Vidal, Multimodal interactive transcription of text images, Pattern Recognition, Volume 43, Issue 5, May 2010, Pages 1814-1825, ISSN 0031-3203, http://dx.doi.org/10.1016/j.patcog.2009.11.019.
+(http://www.sciencedirect.com/science/article/pii/S0031320309004385)
+Keywords: Multimodal interactive pattern recognition; Computer assisted transcription; Handwritten text recognition
+
+Anthony C. Caputo, 2 - Digital Video Overview, In Digital Video Surveillance and Security, Butterworth-Heinemann, Boston, 2010, Pages 19-38, ISBN 9781856177474, http://dx.doi.org/10.1016/B978-1-85617-747-4.00002-0.
+(http://www.sciencedirect.com/science/article/pii/B9781856177474000020)
+
+Derik Barseghian, Ilkay Altintas, Matthew B. Jones, Daniel Crawl, Nathan Potter, James Gallagher, Peter Cornillon, Mark Schildhauer, Elizabeth T. Borer, Eric W. Seabloom, Parviez R. Hosseini, Workflows and extensions to the Kepler scientific workflow system to support environmental sensor data access and analysis, Ecological Informatics, Volume 5, Issue 1, January 2010, Pages 42-50, ISSN 1574-9541, http://dx.doi.org/10.1016/j.ecoinf.2009.08.008.
+(http://www.sciencedirect.com/science/article/pii/S1574954109000673)
+Keywords: Scientific workflows; Sensors; Near real-time data access; Data analysis; Terrestrial ecology; Oceanography
+
+Camil Demetrescu, Bruno Escoffier, Gabriel Moruz, Andrea Ribichini, Adapting parallel algorithms to the W-Stream model, with applications to graph problems, Theoretical Computer Science, Volume 411, Issues 44–46, 25 October 2010, Pages 3994-4004, ISSN 0304-3975, http://dx.doi.org/10.1016/j.tcs.2010.08.030.
+(http://www.sciencedirect.com/science/article/pii/S0304397510004652)
+Keywords: Data streaming model; Reductions to parallel algorithms; Graph problems
+
+P. Jeremy Werdell, Bryan A. Franz, Sean W. Bailey, Evaluation of shortwave infrared atmospheric correction for ocean color remote sensing of Chesapeake Bay, Remote Sensing of Environment, Volume 114, Issue 10, 15 October 2010, Pages 2238-2247, ISSN 0034-4257, http://dx.doi.org/10.1016/j.rse.2010.04.027.
+(http://www.sciencedirect.com/science/article/pii/S0034425710001409)
+Keywords: Ocean color; Atmospheric correction; MODIS; Chesapeake Bay
+
+Regina Moles-Valls, Alignment of the ATLAS inner detector tracking system, Nuclear Instruments and Methods in Physics Research Section A: Accelerators, Spectrometers, Detectors and Associated Equipment, Volume 617, Issues 1–3, 11–21 May 2010, Pages 568-570, ISSN 0168-9002, http://dx.doi.org/10.1016/j.nima.2009.09.101.
+(http://www.sciencedirect.com/science/article/pii/S016890020901883X)
+Keywords: ATLAS; Inner detector; Alignment
+
+Thi Hong Nhan Vu, Namkyu Park, Yang Koo Lee, Yongmi Lee, Jong Yun Lee, Keun Ho Ryu, Online discovery of Heart Rate Variability patterns in mobile healthcare services, Journal of Systems and Software, Volume 83, Issue 10, October 2010, Pages 1930-1940, ISSN 0164-1212, http://dx.doi.org/10.1016/j.jss.2010.05.074.
+(http://www.sciencedirect.com/science/article/pii/S0164121210001445)
+Keywords: Neural network; Wireless sensor network; Heart Rate Variability; Healthcare services
+
+Stavros Lekkas, Ludmil Mikhailov, Evolving fuzzy medical diagnosis of Pima Indians diabetes and of dermatological diseases, Artificial Intelligence in Medicine, Volume 50, Issue 2, October 2010, Pages 117-126, ISSN 0933-3657, http://dx.doi.org/10.1016/j.artmed.2010.05.007.
+(http://www.sciencedirect.com/science/article/pii/S0933365710000722)
+Keywords: Evolving fuzzy rule-based classification; Evolving medical diagnosis; Buffering of input samples; Interpretable medical rules
+
+Robert Arzbaecher, David R. Hampton, Martin C. Burke, Michael C. Garrett, Subcutaneous electrocardiogram monitors and their field of view, Journal of Electrocardiology, Volume 43, Issue 6, November–December 2010, Pages 601-605, ISSN 0022-0736, http://dx.doi.org/10.1016/j.jelectrocard.2010.05.017.
+(http://www.sciencedirect.com/science/article/pii/S002207361000213X)
+Keywords: Subcutaneous; Monitor; Wireless
+
+

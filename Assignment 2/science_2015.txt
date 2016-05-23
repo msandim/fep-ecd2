@@ -1,0 +1,570 @@
+Bartosz Krawczyk, Jerzy Stefanowski, Michał Wozniak, Data stream classification and big data analytics, Neurocomputing, Volume 150, Part A, 20 February 2015, Pages 238-239, ISSN 0925-2312, http://dx.doi.org/10.1016/j.neucom.2014.10.025.
+(http://www.sciencedirect.com/science/article/pii/S0925231214013642)
+
+Daniel Shiffman, 19 - Data Streams, In The Morgan Kaufmann Series in Interactive 3D Technology; The Morgan Kaufmann Series in Computer Graphics, Morgan Kaufmann, Boston, 2015, Pages 427-450, Learning Processing (Second Edition), ISBN 9780123944436, http://dx.doi.org/10.1016/B978-0-12-394443-6.50019-6.
+(http://www.sciencedirect.com/science/article/pii/B9780123944436500196)
+
+Peipei Li, Xindong Wu, Xuegang Hu, Hao Wang, Learning concept-drifting data streams with random ensemble decision trees, Neurocomputing, Volume 166, 20 October 2015, Pages 68-83, ISSN 0925-2312, http://dx.doi.org/10.1016/j.neucom.2015.04.024.
+(http://www.sciencedirect.com/science/article/pii/S0925231215004713)
+Keywords: Data streams; Random decision tree; Concept drift; Noisy data
+
+Dawei Sun, Guangyan Zhang, Songlin Yang, Weimin Zheng, Samee U. Khan, Keqin Li, Re-Stream: Real-time and energy-efficient resource scheduling in big data stream computing environments, Information Sciences, Volume 319, 20 October 2015, Pages 92-112, ISSN 0020-0255, http://dx.doi.org/10.1016/j.ins.2015.03.027.
+(http://www.sciencedirect.com/science/article/pii/S0020025515001929)
+Keywords: Big data; Critical path; Directed acyclic graph; Energy efficiency; Real time; Stream computing
+
+Marie-Aude Aufaure, Raja Chiky, Olivier Curé, Houda Khrouf, Gabriel Kepeklian, From Business Intelligence to semantic data stream management, Future Generation Computer Systems, Available online 2 December 2015, ISSN 0167-739X, http://dx.doi.org/10.1016/j.future.2015.11.015.
+(http://www.sciencedirect.com/science/article/pii/S0167739X15003635)
+Keywords: Data stream; Linked Data; Business Intelligence; Stream reasoning
+
+Karen Works, Elke A. Rundensteiner, Practical Identification of Dynamic Precedence Criteria to Produce Critical Results from Big Data Streams, Big Data Research, Volume 2, Issue 4, December 2015, Pages 127-144, ISSN 2214-5796, http://dx.doi.org/10.1016/j.bdr.2015.09.001.
+(http://www.sciencedirect.com/science/article/pii/S2214579615000490)
+Keywords: Big data streams; Critical result production; Rapid online adaption
+
+Mohammed Ghesmoune, Mustapha Lebbah, Hanene Azzag, Micro-Batching Growing Neural Gas for Clustering Data Streams Using Spark Streaming, Procedia Computer Science, Volume 53, 2015, Pages 158-166, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.07.290.
+(http://www.sciencedirect.com/science/article/pii/S1877050915017937)
+Keywords: Data Stream Clustering; GNG; Topological Structure; Micro-Batch Streaming
+
+Martin Trépanier, Toshiyuki Yamamoto, Workshop Synthesis: System Based Passive Data Streams Systems; Smart Cards, Phone Data, GPS, Transportation Research Procedia, Volume 11, 2015, Pages 340-349, ISSN 2352-1465, http://dx.doi.org/10.1016/j.trpro.2015.12.029.
+(http://www.sciencedirect.com/science/article/pii/S2352146515003208)
+Keywords: Passive data stream; smart card; smart phone; GPS; Bluetooth; privacy
+
+Poorya ZareMoodi, Hamid Beigy, Sajjad Kamali Siahroudi, Novel class detection in data streams using local patterns and neighborhood graph, Neurocomputing, Volume 158, 22 June 2015, Pages 234-245, ISSN 0925-2312, http://dx.doi.org/10.1016/j.neucom.2015.01.037.
+(http://www.sciencedirect.com/science/article/pii/S0925231215000582)
+Keywords: Novel class detection; Data stream; Concept drift; Classification
+
+Amal Moustafa, Badr Abuelnasr, Mohamed Said Abougabal, Efficient mining fuzzy association rules from ubiquitous data streams, Alexandria Engineering Journal, Volume 54, Issue 2, June 2015, Pages 163-174, ISSN 1110-0168, http://dx.doi.org/10.1016/j.aej.2015.03.015.
+(http://www.sciencedirect.com/science/article/pii/S1110016815000290)
+Keywords: Data mining; Fuzzy association rules; Fuzzy sets; Data streams; Ubiquitous data streams
+
+Steven Fortune, Equivalence and generalization in a layered network model, Journal of Computer and System Sciences, Volume 81, Issue 8, December 2015, Pages 1698-1714, ISSN 0022-0000, http://dx.doi.org/10.1016/j.jcss.2015.06.004.
+(http://www.sciencedirect.com/science/article/pii/S0022000015000653)
+Keywords: Network model; Layers; Generalization; Equivalence; Adaptation algorithms
+
+Wen-Ping Li, Jing Yang, Jian-Pei Zhang, Uncertain canonical correlation analysis for multi-view feature extraction from uncertain data streams, Neurocomputing, Volume 149, Part C, 3 February 2015, Pages 1337-1347, ISSN 0925-2312, http://dx.doi.org/10.1016/j.neucom.2014.08.063.
+(http://www.sciencedirect.com/science/article/pii/S0925231214011229)
+Keywords: Uncertain data; Multidimensional data streams; Canonical correlation analysis (CCA); Feature extraction; Multi-view dimensionality reduction
+
+Janez Kranjc, Jasmina Smailović, Vid Podpečan, Miha Grčar, Martin Žnidaršič, Nada Lavrač, Active learning for sentiment analysis on data streams: Methodology and workflow implementation in the ClowdFlows platform, Information Processing & Management, Volume 51, Issue 2, March 2015, Pages 187-203, ISSN 0306-4573, http://dx.doi.org/10.1016/j.ipm.2014.04.001.
+(http://www.sciencedirect.com/science/article/pii/S0306457314000296)
+Keywords: Active learning; Stream mining; Sentiment analysis; Stream-based active learning; Workflows; Data mining platform
+
+Darshana Desai, Abhijit Joshi, A Deviant Load Shedding System for Data Stream Mining, Procedia Computer Science, Volume 45, 2015, Pages 118-126, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.03.103.
+(http://www.sciencedirect.com/science/article/pii/S1877050915003397)
+Keywords: Data stream; Frequent pattern matching; Data overload; Load shedding.
+
+R. Mythily, Aisha Banu, Shriram Raghunathan, Clustering Models for Data Stream Mining, Procedia Computer Science, Volume 46, 2015, Pages 619-626, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.02.107.
+(http://www.sciencedirect.com/science/article/pii/S1877050915001714)
+Keywords: Data streams; information retrieval; data mining
+
+Jian Xu, Yexi Jiang, Chunqiu Zeng, Tao Li, Node anomaly detection for homogeneous distributed environments, Expert Systems with Applications, Volume 42, Issue 20, 15 November 2015, Pages 7012-7025, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2015.04.037.
+(http://www.sciencedirect.com/science/article/pii/S0957417415002730)
+Keywords: Anomaly detection; Multiple data streams; Contextual anomaly; Collective anomaly
+
+Andrius Guzavicius, Nowcasting Commodity Markets Using Real Time Data Stream, Procedia - Social and Behavioral Sciences, Volume 213, 1 December 2015, Pages 481-484, ISSN 1877-0428, http://dx.doi.org/10.1016/j.sbspro.2015.11.437.
+(http://www.sciencedirect.com/science/article/pii/S1877042815057924)
+Keywords: Nowcasting; Commodity Marke; Real Time Data Stream.
+
+Cheng Zhou, Boris Cule, Bart Goethals, A pattern based predictor for event streams, Expert Systems with Applications, Volume 42, Issue 23, 15 December 2015, Pages 9294-9306, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2015.08.021.
+(http://www.sciencedirect.com/science/article/pii/S0957417415005667)
+Keywords: Pattern mining; Event stream; Prediction; Lossy counting
+
+Feng Wang, Liang Hu, Dongdai Zhou, Rui Sun, Jiejun Hu, Kuo Zhao, Estimating online vacancies in real-time road traffic monitoring with traffic sensor data stream, Ad Hoc Networks, Volume 35, December 2015, Pages 3-13, ISSN 1570-8705, http://dx.doi.org/10.1016/j.adhoc.2015.07.003.
+(http://www.sciencedirect.com/science/article/pii/S1570870515001389)
+Keywords: Data stream; Road traffic monitoring; Real time; Big data
+
+P.K. Srimani, Malini M. Patil Mrs., Frequent Item Set Mining Using INC_MINE in Massive Online Analysis Frame Work, Procedia Computer Science, Volume 45, 2015, Pages 133-142, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.03.105.
+(http://www.sciencedirect.com/science/article/pii/S1877050915003415)
+Keywords: Data Streams; Data mining; Association Rule Mining; Frequent itemsets; Closed frequent itemsets; Rules ;
+
+Sang-Sub Kim, Hee-Kap Ahn, An improved data stream algorithm for clustering, Computational Geometry, Volume 48, Issue 9, October 2015, Pages 635-645, ISSN 0925-7721, http://dx.doi.org/10.1016/j.comgeo.2015.06.003.
+(http://www.sciencedirect.com/science/article/pii/S0925772115000565)
+Keywords: Euclidean k-clustering; Euclidean k-center; Streaming algorithms; Computational geometry
+
+Zahraa Said Abdallah, Mohamed Medhat Gaber, Bala Srinivasan, Shonali Krishnaswamy, Adaptive mobile activity recognition system with evolving data streams, Neurocomputing, Volume 150, Part A, 20 February 2015, Pages 304-317, ISSN 0925-2312, http://dx.doi.org/10.1016/j.neucom.2014.09.074.
+(http://www.sciencedirect.com/science/article/pii/S0925231214013186)
+Keywords: Ubiquitous computing; Mobile application; Activity recognition; Stream mining; Incremental learning; Active learning
+
+Saul Gill, Brian Lee, A Framework for Distributed Cleaning of Data Streams, Procedia Computer Science, Volume 52, 2015, Pages 1186-1191, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.05.156.
+(http://www.sciencedirect.com/science/article/pii/S1877050915009564)
+Keywords: Internet of Things; Data Stream Cleaning; Model Based Cleaning; Regression; Declarative Cleaning; Distributed Cleaning; Sensor Data Modelling
+
+Tom Gur, Ran Raz, Arthur–Merlin streaming complexity, Information and Computation, Volume 243, August 2015, Pages 145-165, ISSN 0890-5401, http://dx.doi.org/10.1016/j.ic.2014.12.011.
+(http://www.sciencedirect.com/science/article/pii/S0890540114001631)
+Keywords: Probabilistic proof systems; Data streams; Communication complexity
+
+Neta Barkay, Ely Porat, Bar Shalem, Efficient sampling of non-strict turnstile data streams, Theoretical Computer Science, Volume 590, 26 July 2015, Pages 106-117, ISSN 0304-3975, http://dx.doi.org/10.1016/j.tcs.2015.01.026.
+(http://www.sciencedirect.com/science/article/pii/S0304397515000626)
+Keywords: Sampling; Inverse distribution; Data streams
+
+Ugo Erra, Sabrina Senatore, Fernando Minnella, Giuseppe Caggianese, Approximate TF–IDF based on topic extraction from massive message stream using the GPU, Information Sciences, Volume 292, 20 January 2015, Pages 143-161, ISSN 0020-0255, http://dx.doi.org/10.1016/j.ins.2014.08.062.
+(http://www.sciencedirect.com/science/article/pii/S0020025514008676)
+Keywords: Twitter; TF–IDF; GPU; Topic extraction; Frequent items; Massive data stream
+
+E. Lochin, J. Lacan, P-U. Tournoux and J. Leguay, 9 - Reliable data streaming over delay-tolerant networks (DTNs), In Advances in Delay-Tolerant Networks (DTNs), edited by J.J.P.C. Rodrigues,, Woodhead Publishing, Oxford, 2015, Pages 173-185, ISBN 9780857098405, http://dx.doi.org/10.1533/9780857098467.2.173.
+(http://www.sciencedirect.com/science/article/pii/B9780857098405500095)
+Keywords: DTN streaming; Reliability; Erasure coding; On-the-fly coding; FEC
+
+Hanqiao Zhang, Steven Krooswyk and Jeff Ou, Chapter 4 - Link circuits and architecture, In High Speed Digital Design, Morgan Kaufmann, Boston, 2015, Pages 163-198, ISBN 9780124186637, http://dx.doi.org/10.1016/B978-0-12-418663-7.00004-6.
+(http://www.sciencedirect.com/science/article/pii/B9780124186637000046)
+Keywords: circuits; receiver; transmitter; high-speed I/O; continuous-time linear equalization; decision feedback equalization; clock and data recovery; PCI Express
+
+Yan Yang, Hui Yue, Efficient beamforming method for downlink MU-MIMO broadcast channels, AEU - International Journal of Electronics and Communications, Volume 69, Issue 3, March 2015, Pages 636-643, ISSN 1434-8411, http://dx.doi.org/10.1016/j.aeue.2014.12.002.
+(http://www.sciencedirect.com/science/article/pii/S1434841114003355)
+Keywords: MIMO; Broadcast; Beamforming; Dirty paper coding; Zero-forcing
+
+Ammar Shaker, Eyke Hüllermeier, Recovery analysis for adaptive learning from non-stationary data streams: Experimental design and case study, Neurocomputing, Volume 150, Part A, 20 February 2015, Pages 250-264, ISSN 0925-2312, http://dx.doi.org/10.1016/j.neucom.2014.09.076.
+(http://www.sciencedirect.com/science/article/pii/S0925231214013216)
+Keywords: Machine learning; Data streams; Concept drift; Supervised learning; Regression; Classification
+
+Parot Ratnapinda, Marek J. Druzdzel, Learning discrete Bayesian network parameters from continuous data streams: What is the best strategy?, Journal of Applied Logic, Volume 13, Issue 4, Part 2, December 2015, Pages 628-642, ISSN 1570-8683, http://dx.doi.org/10.1016/j.jal.2015.03.007.
+(http://www.sciencedirect.com/science/article/pii/S1570868315000464)
+Keywords: Bayesian networks; Parameter learning; EM algorithm
+
+C.S. Lifna, M. Vijayalakshmi, Identifying Concept-drift in Twitter Streams, Procedia Computer Science, Volume 45, 2015, Pages 86-94, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.03.093.
+(http://www.sciencedirect.com/science/article/pii/S1877050915003294)
+Keywords: Big Data; Data Stream Mining ;Sliding Window; Landmark Window; Twitter; Classification; Topic ranking; Concept-Drift.
+
+Gregor Klančar, Igor Škrjanc, Evolving principal component clustering with a low run-time complexity for LRF data mapping, Applied Soft Computing, Volume 35, October 2015, Pages 349-358, ISSN 1568-4946, http://dx.doi.org/10.1016/j.asoc.2015.06.044.
+(http://www.sciencedirect.com/science/article/pii/S156849461500410X)
+Keywords: Line extraction; Evolving clustering; Laser range finder
+
+N. Dahal, O. Abuomar, R. King, V. Madani, Event stream processing for improved situational awareness in the smart grid, Expert Systems with Applications, Volume 42, Issue 20, 15 November 2015, Pages 6853-6863, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2015.05.003.
+(http://www.sciencedirect.com/science/article/pii/S095741741500322X)
+Keywords: Data mining; Situational awareness; Stream processing; Synchrophasor; Wide area monitoring
+
+C. Sweetlin Hemalatha, V. Vaidehi, R. Lakshmi, Minimal infrequent pattern based approach for mining outliers in data streams, Expert Systems with Applications, Volume 42, Issue 4, March 2015, Pages 1998-2012, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2014.09.053.
+(http://www.sciencedirect.com/science/article/pii/S0957417414006149)
+Keywords: Minimal infrequent pattern; Outlier detection; Data streams; Data mining
+
+Bartosz Krawczyk, Michał Woźniak, Incremental weighted one-class classifier for mining stationary data streams, Journal of Computational Science, Volume 9, July 2015, Pages 19-25, ISSN 1877-7503, http://dx.doi.org/10.1016/j.jocs.2015.04.024.
+(http://www.sciencedirect.com/science/article/pii/S1877750315000629)
+Keywords: Data stream classification; Pattern classification; One-class classification; Incremental learning; Machine learning
+
+Martin Dimkovski, Aijun An, A Bayesian model for canonical circuits in the neocortex for parallelized and incremental learning of symbol representations, Neurocomputing, Volume 149, Part C, 3 February 2015, Pages 1270-1279, ISSN 0925-2312, http://dx.doi.org/10.1016/j.neucom.2014.09.002.
+(http://www.sciencedirect.com/science/article/pii/S0925231214011576)
+Keywords: Neocortical canonical circuits; Bayesian brain; Symbolic abstraction; Incremental Metropolis-Hastings; Data stream learning
+
+Yiannis Giannakopoulos, Elias Koutsoupias, Competitive analysis of maintaining frequent items of a stream, Theoretical Computer Science, Volume 562, 11 January 2015, Pages 23-32, ISSN 0304-3975, http://dx.doi.org/10.1016/j.tcs.2014.09.011.
+(http://www.sciencedirect.com/science/article/pii/S0304397514006768)
+Keywords: Online algorithms; Competitive analysis; Frequent items; Data streams
+
+Komate Amphawan, Julie Soulas, Philippe Lenca, Mining top-k Regular Episodes from Sensor Streams, Procedia Computer Science, Volume 69, 2015, Pages 76-85, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.10.008.
+(http://www.sciencedirect.com/science/article/pii/S1877050915031725)
+Keywords: Data mining; Activities of Daily Living; Episode discovery; Data stream; Sliding window; Regularity
+
+Emanuele Fumeo, Luca Oneto, Davide Anguita, Condition Based Maintenance in Railway Transportation Systems Based on Big Data Streaming Analysis, Procedia Computer Science, Volume 53, 2015, Pages 437-446, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.07.321.
+(http://www.sciencedirect.com/science/article/pii/S1877050915018244)
+Keywords: Big Data Streams; Data Analytics; Condition Based Maintenance; Intelligent Transporta- tion Systems; Online Learning; Model Selection
+
+Chuan-Ming Liu, Syuan-Wei Tang, An Effective Probabilistic Skyline Query Process on Uncertain Data Streams, Procedia Computer Science, Volume 63, 2015, Pages 40-47, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.08.310.
+(http://www.sciencedirect.com/science/article/pii/S1877050915024382)
+Keywords: Probabilistic Skyline; Uncertain Data; Data Streams; Query Processing
+
+Ying Liu, Pengshan Ma, Hongyuan Cui, Design and Development of FPGA-based High-Performance Radar Data Stream Mining System, Procedia Computer Science, Volume 55, 2015, Pages 876-885, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.07.147.
+(http://www.sciencedirect.com/science/article/pii/S1877050915016221)
+Keywords: data mining; clustering; signal processing; FPGA; parallel computing
+
+Shigeru Imai, Alessandro Galli, Carlos A. Varela, Dynamic Data-driven Avionics Systems: Inferring Failure Modes from Data Streams, Procedia Computer Science, Volume 51, 2015, Pages 1665-1674, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.05.301.
+(http://www.sciencedirect.com/science/article/pii/S1877050915011096)
+Keywords: Programming models; Spatio-temporal data; Data streaming
+
+Kostas Kolomvatsos, Christos Anagnostopoulos, Stathes Hadjiefthymiades, A time optimized scheme for top-k list maintenance over incomplete data streams, Information Sciences, Volume 311, 1 August 2015, Pages 59-73, ISSN 0020-0255, http://dx.doi.org/10.1016/j.ins.2015.03.035.
+(http://www.sciencedirect.com/science/article/pii/S0020025515002005)
+Keywords: Data streams; Top-k list; Top-k list maintenance; Optimal stopping theory
+
+Vladimir Braverman, Rafail Ostrovsky, Gregory Vorsanger, Weighted sampling without replacement from data streams, Information Processing Letters, Volume 115, Issue 12, December 2015, Pages 923-926, ISSN 0020-0190, http://dx.doi.org/10.1016/j.ipl.2015.07.007.
+(http://www.sciencedirect.com/science/article/pii/S0020019015001295)
+Keywords: Algorithms; On-line algorithms; Sampling; Streaming algorithms
+
+Aleksandar M. Dimitrijević, Dejan D. Rančić, Ellipsoidal Clipmaps – A planet-sized terrain rendering algorithm, Computers & Graphics, Volume 52, November 2015, Pages 43-61, ISSN 0097-8493, http://dx.doi.org/10.1016/j.cag.2015.06.006.
+(http://www.sciencedirect.com/science/article/pii/S0097849315000916)
+Keywords: Terrain; Out-of-core; Level-of-detail; Rendering; Clipmaps
+
+Lin Tang, Hui Cao, Li Zheng, Ningjian Huang, Value-driven uncertainty-aware data processing for an RFID-enabled mixed-model assembly line, International Journal of Production Economics, Volume 165, July 2015, Pages 273-281, ISSN 0925-5273, http://dx.doi.org/10.1016/j.ijpe.2014.12.030.
+(http://www.sciencedirect.com/science/article/pii/S0925527314004241)
+Keywords: RFID; Complex event processing; Bayesian inference model; Mixed-model assembly line
+
+Mohamed G. El-Mashed, S. El-Rabaie, Near optimum OSIC-based ML algorithm in a quantized space for LTE-A downlink physical layer, Digital Signal Processing, Volume 40, May 2015, Pages 250-257, ISSN 1051-2004, http://dx.doi.org/10.1016/j.dsp.2015.02.007.
+(http://www.sciencedirect.com/science/article/pii/S1051200415000500)
+Keywords: LTE-A; MIMO; OSIC; ML; Quantized space and complexity
+
+A. Czyżewski, P. Bratoszewski, A. Ciarkowski, J. Cichowski, K. Lisowski, M. Szczodrak, G. Szwoch, H. Krawczyk, Massive surveillance data processing with supercomputing cluster, Information Sciences, Volume 296, 1 March 2015, Pages 322-344, ISSN 0020-0255, http://dx.doi.org/10.1016/j.ins.2014.11.013.
+(http://www.sciencedirect.com/science/article/pii/S0020025514010834)
+Keywords: Smart surveillance; Massive video data processing; Object detection; Parallel processing
+
+Mohamed G. El-Mashed, S. El-Rabaie, Signal detection enhancement in LTE-A downlink physical layer using OSIC-based -Best algorithm, Physical Communication, Volume 14, March 2015, Pages 24-31, ISSN 1874-4907, http://dx.doi.org/10.1016/j.phycom.2014.12.001.
+(http://www.sciencedirect.com/science/article/pii/S1874490714000998)
+Keywords: LTE-A; Downlink physical; MIMO; OSIC; K -Best; BER
+
+Vincenzo Gulisano, Mar Callau-Zori, Zhang Fu, Ricardo Jiménez-Peris, Marina Papatriantafilou, Marta Patiño-Martínez, STONE: A streaming DDoS defense framework, Expert Systems with Applications, Volume 42, Issue 24, 30 December 2015, Pages 9620-9633, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2015.07.027.
+(http://www.sciencedirect.com/science/article/pii/S095741741500487X)
+Keywords: DDoS detection; DDoS mitigation; Data streaming
+
+Indrė Žliobaitė, Marcin Budka, Frederic Stahl, Towards cost-sensitive adaptation: When is it worth updating your predictive model?, Neurocomputing, Volume 150, Part A, 20 February 2015, Pages 240-249, ISSN 0925-2312, http://dx.doi.org/10.1016/j.neucom.2014.05.084.
+(http://www.sciencedirect.com/science/article/pii/S0925231214012971)
+Keywords: Evolving data streams; Concept drift; Evaluation; Cost-sensitive adaptation; Utility of data mining
+
+Bilal Mirza, Zhiping Lin, Nan Liu, Ensemble of subset online sequential extreme learning machine for class imbalance and concept drift, Neurocomputing, Volume 149, Part A, 3 February 2015, Pages 316-329, ISSN 0925-2312, http://dx.doi.org/10.1016/j.neucom.2014.03.075.
+(http://www.sciencedirect.com/science/article/pii/S0925231214011448)
+Keywords: Class imbalance; Concept drift; Extreme learning machine; Online learning; Recurring environments
+
+Giandomenico Spezzano, Andrea Vinci, Pattern Detection in Cyber-Physical Systems, Procedia Computer Science, Volume 52, 2015, Pages 1016-1021, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.05.096.
+(http://www.sciencedirect.com/science/article/pii/S1877050915008960)
+Keywords: Cyber-physical systems; data streams mining; stream clustering; monitoring applications ;
+
+Samer Samarah, A Data Predication Model for Integrating Wireless Sensor Networks and Cloud Computing, Procedia Computer Science, Volume 52, 2015, Pages 1141-1146, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.05.148.
+(http://www.sciencedirect.com/science/article/pii/S1877050915009485)
+Keywords: Wireless Sensor Networks; Data Mining; Data Prediction; Cloud Computing Platform
+
+A. Min Tjoa, Peter Wetz, Elmar Kiesling, Tuan-Dat Trinh, Ba-Lam Do, Integrating Streaming Data into Semantic Mashups, Procedia Computer Science, Volume 72, 2015, Pages 1-4, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.12.098.
+(http://www.sciencedirect.com/science/article/pii/S1877050915035590)
+Keywords: stream processing; semantic mashups
+
+Milena Vuckovic, Kristina Kiesel, Ardeshir Mahdavi, Toward Advanced Representations of the Urban Microclimate in Building Performance Simulation, Energy Procedia, Volume 78, November 2015, Pages 3354-3359, ISSN 1876-6102, http://dx.doi.org/10.1016/j.egypro.2015.11.750.
+(http://www.sciencedirect.com/science/article/pii/S1876610215024820)
+Keywords: thermal building performance; microclimate; weather stations; climate change
+
+Edwin Lughofer, Moamar Sayed-Mouchaweh, Autonomous data stream clustering implementing split-and-merge concepts – Towards a plug-and-play approach, Information Sciences, Volume 304, 20 May 2015, Pages 54-79, ISSN 0020-0255, http://dx.doi.org/10.1016/j.ins.2015.01.010.
+(http://www.sciencedirect.com/science/article/pii/S0020025515000328)
+Keywords: Autonomous evolving clustering; On-line data streams; Incremental split-and-merge; Cluster heterogeneity; Cluster homogeneity; Parameter sensitivity
+
+Loïc Paul Dutrieux, Jan Verbesselt, Lammert Kooistra, Martin Herold, Monitoring forest cover loss using multiple data streams, a case study of a tropical dry forest in Bolivia, ISPRS Journal of Photogrammetry and Remote Sensing, Volume 107, September 2015, Pages 112-125, ISSN 0924-2716, http://dx.doi.org/10.1016/j.isprsjprs.2015.03.015.
+(http://www.sciencedirect.com/science/article/pii/S0924271615000970)
+Keywords: Landsat; Change detection; Spatial context; MODIS; Deforestation; Time-series
+
+Dongyoun Shin, Daniel Aliaga, Bige Tunçer, Stefan Müller Arisona, Sungah Kim, Dani Zünd, Gerhard Schmitt, Urban sensing: Using smartphones for transportation mode classification, Computers, Environment and Urban Systems, Volume 53, September 2015, Pages 76-86, ISSN 0198-9715, http://dx.doi.org/10.1016/j.compenvurbsys.2014.07.011.
+(http://www.sciencedirect.com/science/article/pii/S0198971514000921)
+Keywords: Transportation mode classification; Vehicle detection; Social sensing; Crowdsourcing; Smartphone; CITYing
+
+Dingyu Yang, Jian Cao, Sai Wu, Jie Wang, Progressive online aggregation in a distributed stream system, Journal of Systems and Software, Volume 102, April 2015, Pages 146-157, ISSN 0164-1212, http://dx.doi.org/10.1016/j.jss.2014.11.027.
+(http://www.sciencedirect.com/science/article/pii/S0164121214002556)
+Keywords: Online aggregation; Stream processing; Actor model
+
+Elena Ikonomovska, João Gama, Sašo Džeroski, Online tree-based ensembles and option trees for regression on evolving data streams, Neurocomputing, Volume 150, Part B, 20 February 2015, Pages 458-470, ISSN 0925-2312, http://dx.doi.org/10.1016/j.neucom.2014.04.076.
+(http://www.sciencedirect.com/science/article/pii/S0925231214012338)
+Keywords: Online learning; Data streams; Online regression trees; Option trees; Online ensembles; Online random forests
+
+Rudyar Cortés, Xavier Bonnaire, Olivier Marin, Pierre Sens, Stream Processing of Healthcare Sensor Data: Studying User Traces to Identify Challenges from a Big Data Perspective, Procedia Computer Science, Volume 52, 2015, Pages 1004-1009, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.05.093.
+(http://www.sciencedirect.com/science/article/pii/S1877050915008935)
+Keywords: Internet of Things; Healthcare Sport Services; Big Data.
+
+Plamen Angelov, Pouria Sadeghi-Tehran, A Nested Hierarchy of Dynamically Evolving Clouds for Big Data Structuring and Searching, Procedia Computer Science, Volume 53, 2015, Pages 1-8, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.07.273.
+(http://www.sciencedirect.com/science/article/pii/S1877050915017767)
+Keywords: dynamically evolving hierarchy of data clouds; content-based image retrieval; recursive density estimation; evolving clustering
+
+Dong Wang, Tarek Abdelzaher and Lance Kaplan, Chapter 10 - Recursive fact-finding, In Social Sensing, Morgan Kaufmann, Boston, 2015, Pages 171-183, ISBN 9780128008676, http://dx.doi.org/10.1016/B978-0-12-800867-6.00010-8.
+(http://www.sciencedirect.com/science/article/pii/B9780128008676000108)
+Keywords: Real-time; Fact-finding; Recursive expectation maximization; Streaming data; Social sensing
+
+Manuel Delgado-Restituto and Alberto Rodríguez-Pérez, Chapter 12 - Neural recording interfaces for intracortical implants*, In Implantable Biomedical Microsystems, William Andrew Publishing, Oxford, 2015, Pages 251-279, ISBN 9780323262088, http://dx.doi.org/10.1016/B978-0-323-26208-8.00012-1.
+(http://www.sciencedirect.com/science/article/pii/B9780323262088000121)
+Keywords: Neural recording; Low-power; Biomedical acquisition; Feature extraction; ­Low-noise amplifier (LNA); Analog-to-digital converter (ADC); Inductive link
+
+Shibily Joseph, Jasmin E.A., Soumya Chandran, Stream Computing: Opportunities and Challenges in Smart Grid, Procedia Technology, Volume 21, 2015, Pages 49-53, ISSN 2212-0173, http://dx.doi.org/10.1016/j.protcy.2015.10.008.
+(http://www.sciencedirect.com/science/article/pii/S2212017315002364)
+Keywords: Smart Grid; Advanced metering infrastructure; Stream computing; Data analytics; Big data; Outage detection
+
+Dinara F. Gaynutdinova, Vladimir Ya. Modorsky, Grigoriy F. Masich, Infrastructure of Data Distributed Processing in High-speed Process Research Based on Hydroelasticity Tasks, Procedia Computer Science, Volume 66, 2015, Pages 556-563, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.11.063.
+(http://www.sciencedirect.com/science/article/pii/S1877050915034122)
+Keywords: mathematical model of hydroelasticity input-output in supercomputer; experimental stand; high-speed network; parallel data streams
+
+João Paulo Teixeira, António Ferreira, Ambulatory Electrocardiogram Prototype, Procedia Computer Science, Volume 64, 2015, Pages 800-807, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.08.631.
+(http://www.sciencedirect.com/science/article/pii/S1877050915027660)
+Keywords: Electrocardiogram; prototype; cardiac monitoring; Ambulatory ECG; Holter; Microcontroller.
+
+Srinivasan Nagaraj, G.S.V.P. Raju, V. Srinadth, Data Encryption and Authetication Using Public Key Approach, Procedia Computer Science, Volume 48, 2015, Pages 126-132, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.04.161.
+(http://www.sciencedirect.com/science/article/pii/S1877050915006705)
+Keywords: Random; x-Prime; d-PrivateKey; Q-Public Key; DS
+
+Yi Li, Meng Sun, Modeling and verification of component connectors in Coq, Science of Computer Programming, Volume 113, Part 3, 1 December 2015, Pages 285-301, ISSN 0167-6423, http://dx.doi.org/10.1016/j.scico.2015.10.016.
+(http://www.sciencedirect.com/science/article/pii/S0167642315003536)
+Keywords: Coordination; Reo; Connector; Coq; Verification
+
+M. Kharratzadeh, B. Renard, M.J. Coates, Bayesian topic model approaches to online and time-dependent clustering, Digital Signal Processing, Volume 47, December 2015, Pages 25-35, ISSN 1051-2004, http://dx.doi.org/10.1016/j.dsp.2015.03.010.
+(http://www.sciencedirect.com/science/article/pii/S1051200415000858)
+Keywords: Online clustering; Probabilistic topic models; Dirichlet process mixture models; Streaming data; Sequential Monte Carlo sampling
+
+Qun Huang, Patrick P.C. Lee, A hybrid local and distributed sketching design for accurate and scalable heavy key detection in network data streams, Computer Networks, Volume 91, 14 November 2015, Pages 298-315, ISSN 1389-1286, http://dx.doi.org/10.1016/j.comnet.2015.08.025.
+(http://www.sciencedirect.com/science/article/pii/S1389128615002856)
+Keywords: Sketches; Heavy hitter/changer detection; Streaming architectures; Network monitoring
+
+Markus Weinhardt, Bernhard Lang, Frank M. Thiesing, Alexander Krieger, Thomas Kinder, SAccO: An implementation platform for scalable FPGA accelerators, Microprocessors and Microsystems, Volume 39, Issue 7, October 2015, Pages 543-552, ISSN 0141-9331, http://dx.doi.org/10.1016/j.micpro.2015.03.004.
+(http://www.sciencedirect.com/science/article/pii/S0141933115000290)
+Keywords: Reconfigurable computing; Hardware acceleration; FPGA; Coprocessor; Implementation platform; Hardware/software codesign
+
+Juan Ye, Stamatia Dasiopoulou, Graeme Stevenson, Georgios Meditskos, Efstratios Kontopoulos, Ioannis Kompatsiaris, Simon Dobson, Semantic web technologies in pervasive computing: A survey and research roadmap, Pervasive and Mobile Computing, Volume 23, October 2015, Pages 1-25, ISSN 1574-1192, http://dx.doi.org/10.1016/j.pmcj.2014.12.009.
+(http://www.sciencedirect.com/science/article/pii/S1574119214001989)
+Keywords: Ontologies; Pervasive computing; Streaming query; Uncertainty reasoning; Context awareness
+
+Guofeng Cao, Shaowen Wang, Myunghwa Hwang, Anand Padmanabhan, Zhenhua Zhang, Kiumars Soltani, A scalable framework for spatiotemporal analysis of location-based social media data, Computers, Environment and Urban Systems, Volume 51, May 2015, Pages 70-82, ISSN 0198-9715, http://dx.doi.org/10.1016/j.compenvurbsys.2015.01.002.
+(http://www.sciencedirect.com/science/article/pii/S0198971515000162)
+Keywords: Big data; CyberGIS; Data cube; OLAP; Social media
+
+Jeffery S. Horsburgh, Stephanie L. Reeder, Amber Spackman Jones, Jacob Meline, Open source software for visualization and quality control of continuous hydrologic and water quality sensor data, Environmental Modelling & Software, Volume 70, August 2015, Pages 32-44, ISSN 1364-8152, http://dx.doi.org/10.1016/j.envsoft.2015.04.002.
+(http://www.sciencedirect.com/science/article/pii/S1364815215001115)
+Keywords: Data management; Open source software; Sensor data; Python; Hydrologic observations; Quality control
+
+Varun Rai, Scott A. Robinson, Agent-based modeling of energy technology adoption: Empirical integration of social, behavioral, economic, and environmental factors, Environmental Modelling & Software, Volume 70, August 2015, Pages 163-177, ISSN 1364-8152, http://dx.doi.org/10.1016/j.envsoft.2015.04.014.
+(http://www.sciencedirect.com/science/article/pii/S1364815215001231)
+Keywords: Agent-based modeling; Solar photovoltaic (PV); Complex systems; Technology adoption; Social networks; Bounded rationality
+
+Hui Zhou, Shiwen Mao, Prathima Agrawal, Optical power allocation for adaptive transmissions in wavelength-division multiplexing free space optical networks, Digital Communications and Networks, Volume 1, Issue 3, August 2015, Pages 171-180, ISSN 2352-8648, http://dx.doi.org/10.1016/j.dcan.2015.09.001.
+(http://www.sciencedirect.com/science/article/pii/S2352864815000425)
+Keywords: Free space optics; Radio over free space optics; Wavelength-division multiplexing
+
+D. Martínez-Rego, D. Fernández-Francos, O. Fontenla-Romero, A. Alonso-Betanzos, Stream change detection via passive-aggressive classification and Bernoulli CUSUM, Information Sciences, Volume 305, 1 June 2015, Pages 130-145, ISSN 0020-0255, http://dx.doi.org/10.1016/j.ins.2015.01.022.
+(http://www.sciencedirect.com/science/article/pii/S0020025515000602)
+Keywords: Stream data; Anomaly detection; One-class classification; CUSUM chart
+
+Andrew J. Rettig, Sumit Khanna, Richard A. Beck, Open source REST services for environmental sensor networking, Applied Geography, Volume 60, June 2015, Pages 294-300, ISSN 0143-6228, http://dx.doi.org/10.1016/j.apgeog.2014.11.003.
+(http://www.sciencedirect.com/science/article/pii/S0143622814002586)
+Keywords: Environmental sensor networks; Open source software; REST; Open Geospatial Consortium; Web of things
+
+Hang Yang, Simon Fong, Countering the concept-drift problems in big data by an incrementally optimized stream mining model, Journal of Systems and Software, Volume 102, April 2015, Pages 158-166, ISSN 0164-1212, http://dx.doi.org/10.1016/j.jss.2014.07.010.
+(http://www.sciencedirect.com/science/article/pii/S0164121214001526)
+Keywords: Concept drift; Data stream mining; Very fast decision tree
+
+Jiří Bittner, Michal Hapala, Vlastimil Havran, Incremental BVH construction for ray tracing, Computers & Graphics, Volume 47, April 2015, Pages 135-144, ISSN 0097-8493, http://dx.doi.org/10.1016/j.cag.2014.12.001.
+(http://www.sciencedirect.com/science/article/pii/S0097849314001435)
+Keywords: Bounding volume hierarchies; Ray tracing
+
+Cui-Ting Li, Chuan-Tao Zheng, Yue Zheng, Xiao-Liang Huang, Da-Ming Zhang, Chun-Sheng Ma, Topology and investigation of a polymer 8-port optical router with scalable 7N channel wavelengths using N-stage cascading structure, Optics Communications, Volume 339, 15 March 2015, Pages 94-107, ISSN 0030-4018, http://dx.doi.org/10.1016/j.optcom.2014.11.052.
+(http://www.sciencedirect.com/science/article/pii/S0030401814010839)
+Keywords: Guided-wave optics; Optical router; Microring resonator; Polymer
+
+Xingyuan Wang, Lintao Liu, Yingqian Zhang, A novel chaotic block image encryption algorithm based on dynamic random growth technique, Optics and Lasers in Engineering, Volume 66, March 2015, Pages 10-18, ISSN 0143-8166, http://dx.doi.org/10.1016/j.optlaseng.2014.08.005.
+(http://www.sciencedirect.com/science/article/pii/S0143816614001973)
+Keywords: Cat map; Dynamic random growth; Chaotic system; Block image encryption
+
+Lei Zhao, Yide Wang, Pascal Chargé, Zero-forcing DPC beamforming design for multiuser MIMO broadcast channels, Signal Processing, Volume 108, March 2015, Pages 489-497, ISSN 0165-1684, http://dx.doi.org/10.1016/j.sigpro.2014.10.008.
+(http://www.sciencedirect.com/science/article/pii/S0165168414004721)
+Keywords: MU-MIMO; Total power constraint; Per-antenna power constraint; Beamforming; Dirty paper coding; Zero-forcing
+
+David S. Young, Jane K. Hart, Kirk Martinez, Image analysis techniques to estimate river discharge using time-lapse cameras in remote locations, Computers & Geosciences, Volume 76, March 2015, Pages 1-10, ISSN 0098-3004, http://dx.doi.org/10.1016/j.cageo.2014.11.008.
+(http://www.sciencedirect.com/science/article/pii/S0098300414002684)
+Keywords: Remote sensing; River discharge; Glacial melt; Time-lapse camera; Image analysis; Flow rate monitoring
+
+Nicolas-Alexander Tatlas, Stelios M. Potirakis, Stelios A. Mitilineos, Maria Rangoussi, On the effect of compression on the complexity characteristics of wireless acoustic sensor network signals, Signal Processing, Volume 107, February 2015, Pages 153-163, ISSN 0165-1684, http://dx.doi.org/10.1016/j.sigpro.2014.08.012.
+(http://www.sciencedirect.com/science/article/pii/S0165168414003752)
+Keywords: Wireless Audio Sensor Network; Lossy compression; Complexity; Entropy/information; Environmental monitoring; Soundmaps
+
+Eric M. Burger, Scott J. Moura, Gated ensemble learning method for demand-side electricity load forecasting, Energy and Buildings, Volume 109, 15 December 2015, Pages 23-34, ISSN 0378-7788, http://dx.doi.org/10.1016/j.enbuild.2015.10.019.
+(http://www.sciencedirect.com/science/article/pii/S0378778815303339)
+Keywords: Smart grid; Buildings; Electricity forecasting
+
+Haji Mohammad Saleem, Faiyaz Al Zamal, Derek Ruths, Tackling the Challenges of Situational Awareness Extraction in Twitter with an Adaptive Approach, Procedia Engineering, Volume 107, 2015, Pages 301-311, ISSN 1877-7058, http://dx.doi.org/10.1016/j.proeng.2015.06.085.
+(http://www.sciencedirect.com/science/article/pii/S1877705815010383)
+Keywords: Adaptive Filter; Information Retrieval; Real-time filtering; Microblogs.
+
+Sean Rooney, Scheduling intense applications most ‘surprising’ first, Science of Computer Programming, Volume 97, Part 3, 1 January 2015, Pages 309-319, ISSN 0167-6423, http://dx.doi.org/10.1016/j.scico.2013.09.001.
+(http://www.sciencedirect.com/science/article/pii/S0167642313002232)
+Keywords: Data streams; Programming models; Scheduling; Sketching
+
+Nikolaos Zompakis, Alexandros Bartzas, Dimitrios Soudris, Using Chaos Theory based workload analysis to perform Dynamic Frequency Scaling on MPSoCs, Journal of Systems Architecture, Volume 61, Issue 1, January 2015, Pages 28-39, ISSN 1383-7621, http://dx.doi.org/10.1016/j.sysarc.2014.10.003.
+(http://www.sciencedirect.com/science/article/pii/S1383762114001313)
+Keywords: Workload; Analysis; Chaos; Systematic; DFS; NoC; Power
+
+Tegjyot Singh Sethi, Mehmed Kantardzic, Don’t Pay for Validation: Detecting Drifts from Unlabeled data Using Margin Density, Procedia Computer Science, Volume 53, 2015, Pages 103-112, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.07.284.
+(http://www.sciencedirect.com/science/article/pii/S1877050915017871)
+Keywords: Concept drift; detection; limited labeling; SVM; margin density; online learning
+
+Jeremy Steglitz, Jennifer L. Warnick, Sara A. Hoffman, Winter Johnston and Bonnie Spring, Evidence-Based Practice, In International Encyclopedia of the Social & Behavioral Sciences (Second Edition), edited by James D. Wright,, Elsevier, Oxford, 2015, Pages 332-338, ISBN 9780080970875, http://dx.doi.org/10.1016/B978-0-08-097086-8.10540-9.
+(http://www.sciencedirect.com/science/article/pii/B9780080970868105409)
+Keywords: Clinicians; Evidence; Evidence-based medicine; Evidence-based practice; Interprofessional model; Patient preferences; Randomized controlled trial; Shared decision-making; Systematic review
+
+Tom Bösser, Autonomous Agents, In International Encyclopedia of the Social & Behavioral Sciences (Second Edition), edited by James D. Wright,, Elsevier, Oxford, 2015, Pages 309-313, ISBN 9780080970875, http://dx.doi.org/10.1016/B978-0-08-097086-8.43011-4.
+(http://www.sciencedirect.com/science/article/pii/B9780080970868430114)
+Keywords: Algorithms; Anthropomorphic; Autonomous agents; Emergent behavior; Ethical behavior; Mentalistic; Multiagent systems; Reactive system; Robots; Simulators; Subsumption architecture; User interfaces; User–agent communication
+
+Yelena Kropivnitskaya, Jinhui Qin, Kristy F. Tiampo, Michael A. Bauer, A Pipelining Implementation for High Resolution Seismic Hazard Maps Production, Procedia Computer Science, Volume 51, 2015, Pages 1473-1482, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.05.337.
+(http://www.sciencedirect.com/science/article/pii/S187705091501145X)
+Keywords: Hazard maps; pipelining; stream computing; high performance computing (HPC)
+
+Juha Puustjärvi, Leena Puustjärvi, The Role of Smart Data in Smart Home: Health Monitoring Case, Procedia Computer Science, Volume 69, 2015, Pages 143-151, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.10.015.
+(http://www.sciencedirect.com/science/article/pii/S1877050915031798)
+Keywords: Smart data; RDF; Ontologies; Health monitoring; Semantic interoperability; Internet of things
+
+Philip D. Gillespie, Peter C. Hung, Robert J. Kee, Seáan F. McLoone, Blind Characterisation of Sensors with Second-Order Dynamic Response, IFAC-PapersOnLine, Volume 48, Issue 28, 2015, Pages 484-489, ISSN 2405-8963, http://dx.doi.org/10.1016/j.ifacol.2015.12.175.
+(http://www.sciencedirect.com/science/article/pii/S2405896315027998)
+Keywords: Blind Identification; Sensors; Temperature Measurement; System Identification
+
+Adrian Bănărescu, Detecting and Preventing Fraud with Data Analytics, Procedia Economics and Finance, Volume 32, 2015, Pages 1827-1836, ISSN 2212-5671, http://dx.doi.org/10.1016/S2212-5671(15)01485-9.
+(http://www.sciencedirect.com/science/article/pii/S2212567115014859)
+Keywords: data analytics; preventing fraud; IT systems.
+
+Alfredo Cuzzocrea, Zhao Han, Fan Jiang, Carson K. Leung, Hao Zhang, Edge-based Mining of Frequent Subgraphs from Graph Streams, Procedia Computer Science, Volume 60, 2015, Pages 573-582, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.08.184.
+(http://www.sciencedirect.com/science/article/pii/S187705091502311X)
+Keywords: Knowledge discovery and data mining; frequent patterns; frequent subgraphs; graph structured data; data streams
+
+Vladislav Shchapov, Grigoriy Masich, Alexey Masich, Platform for Parallel Processing of Intense Experimental Data Flow on Remote Supercomputers, Procedia Computer Science, Volume 66, 2015, Pages 515-524, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.11.058.
+(http://www.sciencedirect.com/science/article/pii/S1877050915034079)
+Keywords: Long fat network; Supercomputer; Parallel data processing; Middleware; Distributed system
+
+Diomidis Spinellis, Chapter 7 - Tools and Techniques for Analyzing Product and Process Data, In The Art and Science of Analyzing Software Data, edited by Christian Bird, Tim Menzies and Thomas Zimmermann, Morgan Kaufmann, Boston, 2015, Pages 161-212, ISBN 9780124115194, http://dx.doi.org/10.1016/B978-0-12-411519-4.00007-0.
+(http://www.sciencedirect.com/science/article/pii/B9780124115194000070)
+Keywords: Repository mining; Source code analysis; Binary code analysis; Visualization; Unix toolkit
+
+Hemangi Laxman Gawand, A.K. Bhattacharjee, Kallol Roy, Online Monitoring of a Cyber Physical System Against Control Aware Cyber Attacks, Procedia Computer Science, Volume 70, 2015, Pages 238-244, ISSN 1877-0509, http://dx.doi.org/10.1016/j.procs.2015.10.079.
+(http://www.sciencedirect.com/science/article/pii/S1877050915032433)
+Keywords: Cyber physical systems (CPS); Convexity; Least Square Approximation (LSA); Data stream analysis; real-time control system; Sequential Probability Ratio test (SPRT); Cumulative Sum (CUSUM); Security
+
+Nicholas M. Putman, Francisco Maturana, Kira Barton, Dawn M. Tilbury, Virtual Fusion: Integrating Virtual Components into a Physical Manufacturing System, IFAC-PapersOnLine, Volume 48, Issue 3, 2015, Pages 904-909, ISSN 2405-8963, http://dx.doi.org/10.1016/j.ifacol.2015.06.198.
+(http://www.sciencedirect.com/science/article/pii/S2405896315004371)
+Keywords: Automation; Data streams; Manufacturing processes; Industrial control; Process control
+
+Zhaomin Dong, Yanju Liu, Luchun Duan, Dawit Bekele, Ravi Naidu, Uncertainties in human health risk assessment of environmental contaminants: A review and perspective, Environment International, Volume 85, December 2015, Pages 120-132, ISSN 0160-4120, http://dx.doi.org/10.1016/j.envint.2015.09.008.
+(http://www.sciencedirect.com/science/article/pii/S0160412015300465)
+Keywords: Uncertainties; Exposure; Hazard; Human health risk assessment; Modelling
+
+Alexandre Chapiro, Tunç Ozan Aydın, Nikolce Stefanoski, Simone Croci, Aljoscha Smolic, Markus Gross, Art-directable Continuous Dynamic Range video, Computers & Graphics, Volume 53, Part A, December 2015, Pages 54-62, ISSN 0097-8493, http://dx.doi.org/10.1016/j.cag.2015.08.006.
+(http://www.sciencedirect.com/science/article/pii/S0097849315001405)
+Keywords: HDR; Continuous Dynamic Range; Dynamic range mapping; Lumipath
+
+D.G. Trodden, A.J. Murphy, K. Pazouki, James Sargeant, Fuel usage data analysis for efficient shipping operations, Ocean Engineering, Volume 110, Part B, 1 December 2015, Pages 75-84, ISSN 0029-8018, http://dx.doi.org/10.1016/j.oceaneng.2015.09.028.
+(http://www.sciencedirect.com/science/article/pii/S0029801815005004)
+Keywords: Diesel; Engine; Modelling; Simulation; Exhaust; Emissions
+
+Gamze Uslu, Sebnem Baydere, RAM: Real Time Activity Monitoring with feature extractive training, Expert Systems with Applications, Volume 42, Issue 21, 30 November 2015, Pages 8052-8063, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2015.06.017.
+(http://www.sciencedirect.com/science/article/pii/S0957417415004194)
+Keywords: Activity recognition; Real time; Support Vector Machines; Accelerometer; Assisted living
+
+Miguel Coronado, Carlos A. Iglesias, Emilio Serrano, Modelling rules for automating the Evented WEb by semantic technologies, Expert Systems with Applications, Volume 42, Issue 21, 30 November 2015, Pages 7979-7990, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2015.06.031.
+(http://www.sciencedirect.com/science/article/pii/S0957417415004339)
+Keywords: Event-stream; Linked data; Semantic Web; Web rule; Knowledge management; Social sensor
+
+Hadi Fanaee-T, João Gama, Multi-aspect-streaming tensor analysis, Knowledge-Based Systems, Volume 89, November 2015, Pages 332-345, ISSN 0950-7051, http://dx.doi.org/10.1016/j.knosys.2015.07.013.
+(http://www.sciencedirect.com/science/article/pii/S0950705115002671)
+Keywords: Tensor analysis; Data streams; Online histogram; Tensor decomposition; Streaming tensor analysis
+
+F.C. Dórea, S. Widgren, A. Lindberg, Vetsyn: An R package for veterinary syndromic surveillance, Preventive Veterinary Medicine, Volume 122, Issues 1–2, 1 November 2015, Pages 21-32, ISSN 0167-5877, http://dx.doi.org/10.1016/j.prevetmed.2015.10.002.
+(http://www.sciencedirect.com/science/article/pii/S0167587715300258)
+Keywords: Animal health; Syndromic surveillance; R programming
+
+Erik Funkhouser, Griselda Blackburn, Clare Magee, Varun Rai, Business model innovations for deploying distributed generation: The emerging landscape of community solar in the U.S., Energy Research & Social Science, Volume 10, November 2015, Pages 90-101, ISSN 2214-6296, http://dx.doi.org/10.1016/j.erss.2015.07.004.
+(http://www.sciencedirect.com/science/article/pii/S2214629615300104)
+Keywords: Community solar; Utility Business Model; Distributed generation; Net energy metering
+
+Bojian Xu, Boosting distinct random sampling for basic counting on the union of distributed streams, Theoretical Computer Science, Volume 602, 18 October 2015, Pages 60-79, ISSN 0304-3975, http://dx.doi.org/10.1016/j.tcs.2015.08.014.
+(http://www.sciencedirect.com/science/article/pii/S0304397515007586)
+Keywords: Basic counting; Data stream; Distributed streams; Coordinated adaptive sampling; Distinct sampling; Direct sampling
+
+Alessandro Maccione, Mauro Gandolfo, Stefano Zordan, Hayder Amin, Stefano Di Marco, Thierry Nieus, Gian Nicola Angotzi, Luca Berdondini, Microelectronics, bioinformatics and neurocomputation for massive neuronal recordings in brain circuits with large scale multielectrode array probes, Brain Research Bulletin, Volume 119, Part B, October 2015, Pages 118-126, ISSN 0361-9230, http://dx.doi.org/10.1016/j.brainresbull.2015.07.008.
+(http://www.sciencedirect.com/science/article/pii/S0361923015300174)
+Keywords: CMOS-MEAs; Electrophysiology; Data analysis; Neurocomputation; Big data
+
+Vivek Srikrishnan, George S. Young, Lucas T. Witmer, Jeffrey R.S. Brownson, Using multi-pyranometer arrays and neural networks to estimate direct normal irradiance, Solar Energy, Volume 119, September 2015, Pages 531-542, ISSN 0038-092X, http://dx.doi.org/10.1016/j.solener.2015.06.004.
+(http://www.sciencedirect.com/science/article/pii/S0038092X15003072)
+Keywords: Direct normal irradiance; Multi-pyranometer arrays; Neural networks; Machine learning
+
+Amin Rasekh, Kelly Brumbelow, A dynamic simulation–optimization model for adaptive management of urban water distribution system contamination threats, Applied Soft Computing, Volume 32, July 2015, Pages 59-71, ISSN 1568-4946, http://dx.doi.org/10.1016/j.asoc.2015.03.021.
+(http://www.sciencedirect.com/science/article/pii/S1568494615001775)
+Keywords: Evolutionary computations; Water distribution system; Contamination; System dynamics; Dynamic optimization; Emergency management
+
+Seyed A. Rooholamin, Sotirios G. Ziavras, Modular vector processor architecture targeting at data-level parallelism, Microprocessors and Microsystems, Volume 39, Issues 4–5, June–July 2015, Pages 237-249, ISSN 0141-9331, http://dx.doi.org/10.1016/j.micpro.2015.04.007.
+(http://www.sciencedirect.com/science/article/pii/S0141933115000502)
+Keywords: Parallelism; Vector processor; Performance; Speedup; Benchmarking
+
+William A. Wood, Antonia V. Bennett, Ethan Basch, Emerging uses of patient generated health data in clinical research, Molecular Oncology, Volume 9, Issue 5, May 2015, Pages 1018-1024, ISSN 1574-7891, http://dx.doi.org/10.1016/j.molonc.2014.08.006.
+(http://www.sciencedirect.com/science/article/pii/S1574789114002014)
+Keywords: Information technology; Patient reported outcomes; Quality of care; Clinical trials
+
+Evdokimos I. Konstantinidis, Panagiotis E. Antoniou, Giorgos Bamparopoulos, Panagiotis D. Bamidis, A lightweight framework for transparent cross platform communication of controller data in ambient assisted living environments, Information Sciences, Volume 300, 10 April 2015, Pages 124-139, ISSN 0020-0255, http://dx.doi.org/10.1016/j.ins.2014.10.070.
+(http://www.sciencedirect.com/science/article/pii/S0020025514011906)
+Keywords: Elderly care; Ambient assisted living; Human computer interaction; Cross device communication; Ubiquitous communication technology; Exergaming serious gaming
+
+Tristan Tzschichholz, Toralf Boge, Klaus Schilling, Relative pose estimation of satellites using PMD-/CCD-sensor data fusion, Acta Astronautica, Volume 109, April–May 2015, Pages 25-33, ISSN 0094-5765, http://dx.doi.org/10.1016/j.actaastro.2014.12.010.
+(http://www.sciencedirect.com/science/article/pii/S0094576514005074)
+Keywords: Photonic Mixer Device (PMD); Time of flight (ToF); Rendezvous; Docking; Pose estimation; Sensor data fusion
+
+Markus Enenkel, Linda See, Rogerio Bonifacio, Vijendra Boken, Nathaniel Chaney, Patrick Vinck, Liangzhi You, Emanuel Dutra, Martha Anderson, Drought and food security – Improving decision-support via new technologies and innovative collaboration, Global Food Security, Volume 4, March 2015, Pages 51-55, ISSN 2211-9124, http://dx.doi.org/10.1016/j.gfs.2014.08.005.
+(http://www.sciencedirect.com/science/article/pii/S2211912414000339)
+Keywords: Drought; Food Security; Remote Sensing; Forecasting; Vulnerability; Crowd Sourcing
+
+Mohammad Hammoudeh, Robert Newman, Information extraction from sensor networks using the Watershed transform algorithm, Information Fusion, Volume 22, March 2015, Pages 39-49, ISSN 1566-2535, http://dx.doi.org/10.1016/j.inffus.2013.07.001.
+(http://www.sciencedirect.com/science/article/pii/S1566253513000808)
+Keywords: Information extraction; Watershed segmentation; Query scoping; Macroprogramming; Wireless sensor networks
+
+Mariano De Paula, Gerardo G. Acosta, Ernesto C. Martínez, On-line policy learning and adaptation for real-time personalization of an artificial pancreas, Expert Systems with Applications, Volume 42, Issue 4, March 2015, Pages 2234-2255, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2014.10.038.
+(http://www.sciencedirect.com/science/article/pii/S0957417414006629)
+Keywords: Diabetes; Gaussian processes; Glycemic variability; On-line sparsification; Policy learning; Reinforcement learning
+
+Simona D’Oca, Tianzhen Hong, Occupancy schedules learning process through a data mining framework, Energy and Buildings, Volume 88, 1 February 2015, Pages 395-408, ISSN 0378-7788, http://dx.doi.org/10.1016/j.enbuild.2014.11.065.
+(http://www.sciencedirect.com/science/article/pii/S0378778814010329)
+Keywords: Occupant behavior; Data mining; Occupancy schedule; Behavioral pattern; Office building; Building simulation
+
+M. David Allen, Adriane Chapman, Barbara Blaustein, Lisa Mak, What do we do now? Workflows for an unpredictable world, Future Generation Computer Systems, Volume 42, January 2015, Pages 1-10, ISSN 0167-739X, http://dx.doi.org/10.1016/j.future.2014.08.004.
+(http://www.sciencedirect.com/science/article/pii/S0167739X14001526)
+Keywords: Adaptive workflows; Usability; Exchanging pipelines; Dynamic workflows; Business process; Matching
+
+A. Revil, Chapter 10 - Transport Properties through Partially Saturated Charged Membranes and Geophysical Approaches, In: Christophe Tournassat, Carl I. Steefel, Ian C. Bourg and Faȹza Bergaya, Editor(s), Developments in Clay Science, Elsevier, 2015, Volume 6, Pages 357-398, ISSN 1572-4352, ISBN 9780081000274, http://dx.doi.org/10.1016/B978-0-08-100027-4.00010-3.
+(http://www.sciencedirect.com/science/article/pii/B9780081000274000103)
+Keywords: Electrical conductivity; Electroosmotic flow; Permeability; Streaming current; Unsaturated flow
+
+M. Bilcke, P. Lust, H. Naert, E. Blomme, S. Delrue, K. Van Den Abeele, Modular Air-Coupled Ultrasonic Multichannel System for Inline NDT, Physics Procedia, Volume 70, 2015, Pages 519-522, ISSN 1875-3892, http://dx.doi.org/10.1016/j.phpro.2015.08.006.
+(http://www.sciencedirect.com/science/article/pii/S1875389215007476)
+Keywords: air-coupled; non-contact; modular; multi-channel; in-line
+
+Yang Zhang, Li Zhang, Siew Chin Neoh, Kamlesh Mistry, Mohammed Alamgir Hossain, Intelligent affect regression for bodily expressions using hybrid particle swarm optimization and adaptive ensembles, Expert Systems with Applications, Volume 42, Issue 22, 1 December 2015, Pages 8678-8697, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2015.07.022.
+(http://www.sciencedirect.com/science/article/pii/S0957417415004820)
+Keywords: Bodily expression; Adaptive ensemble regression; Particle swarm optimization; Genetic algorithm; Support vector regression; Mutation distributions
+
+Ming Li, Huapeng Wu, Heikki Handroos, Guangyou Yang, Yongbo Wang, Software protocol design: Communication and control in a multi-task robot machine for ITER vacuum vessel assembly and maintenance, Fusion Engineering and Design, Volumes 98–99, October 2015, Pages 1532-1537, ISSN 0920-3796, http://dx.doi.org/10.1016/j.fusengdes.2015.05.058.
+(http://www.sciencedirect.com/science/article/pii/S0920379615003555)
+Keywords: ITER; Multi-task robot; Protocol design; Software design; Real-time control
+
+Rainer Winnenburg, Alfred Sorbello, Anna Ripple, Rave Harpaz, Joseph Tonning, Ana Szarfman, Henry Francis, Olivier Bodenreider, Leveraging MEDLINE indexing for pharmacovigilance – Inherent limitations and mitigation strategies, Journal of Biomedical Informatics, Volume 57, October 2015, Pages 425-435, ISSN 1532-0464, http://dx.doi.org/10.1016/j.jbi.2015.08.022.
+(http://www.sciencedirect.com/science/article/pii/S1532046415001902)
+Keywords: MEDLINE indexing; Pharmacovigilance; Adverse drug events
+
+Siew Chin Neoh, Li Zhang, Kamlesh Mistry, Mohammed Alamgir Hossain, Chee Peng Lim, Nauman Aslam, Philip Kinghorn, Intelligent facial emotion recognition using a layered encoding cascade optimization model, Applied Soft Computing, Volume 34, September 2015, Pages 72-93, ISSN 1568-4946, http://dx.doi.org/10.1016/j.asoc.2015.05.006.
+(http://www.sciencedirect.com/science/article/pii/S1568494615003063)
+Keywords: Facial expression recognition; Feature selection; Cascade optimization; Layered representation structure; Evolutionary algorithm; Ensemble classifier
+
+N.B. Melnikova, D. Jordan, V.V. Krzhizhanovskaya, Experience of using FEM for real-time flood early warning systems: Monitoring and modeling Boston levee instability, Journal of Computational Science, Volume 10, September 2015, Pages 13-25, ISSN 1877-7503, http://dx.doi.org/10.1016/j.jocs.2015.04.033.
+(http://www.sciencedirect.com/science/article/pii/S1877750315000800)
+Keywords: Early warning system; Levee; Finite element analysis; Slope instability; Tidal load; Limit equilibrium analysis; Sensor data; Real-time monitoring; Flood protection; Slippage
+
+Paul St-Aubin, Nicolas Saunier, Luis Miranda-Moreno, Large-scale automated proactive road safety analysis using video data, Transportation Research Part C: Emerging Technologies, Volume 58, Part B, September 2015, Pages 363-379, ISSN 0968-090X, http://dx.doi.org/10.1016/j.trc.2015.04.007.
+(http://www.sciencedirect.com/science/article/pii/S0968090X15001485)
+Keywords: Big data; Transportation; Traffic; Road safety; Computer vision; Trajectories; Surrogate safety; Conflicts; Road users; Time-to-collision; Road user behaviour; Roundabouts
+
+Zubair Shah, Abdun Naser Mahmood, Michael Barlow, Computing discounted multidimensional hierarchical aggregates using modified Misra Gries algorithm, Performance Evaluation, Volume 91, September 2015, Pages 170-186, ISSN 0166-5316, http://dx.doi.org/10.1016/j.peva.2015.06.011.
+(http://www.sciencedirect.com/science/article/pii/S0166531615000590)
+Keywords: Hierarchical heavy hitters; Network traffic summarization; Heavy hitters; Data streams
+
+M.M. Eissa, Mahmoud M. Elmesalawy, Marwa M.A. Hadhoud, Wide Area Monitoring System based on the third generation Universal Mobile Telecommunication System (UMTS) for event identification, International Journal of Electrical Power & Energy Systems, Volume 69, July 2015, Pages 34-47, ISSN 0142-0615, http://dx.doi.org/10.1016/j.ijepes.2014.12.077.
+(http://www.sciencedirect.com/science/article/pii/S0142061514008047)
+Keywords: Wide area measurement; UMTS; HSPA; Interconnected power systems; EWAMS; Minimum distance classification (MDC)
+
+Claudio de Sassi, Shijo Joseph, Astrid B Bos, Amy E Duchelle, Ashwin Ravikumar, Martin Herold, Towards integrated monitoring of REDD+, Current Opinion in Environmental Sustainability, Volume 14, June 2015, Pages 93-100, ISSN 1877-3435, http://dx.doi.org/10.1016/j.cosust.2015.04.003.
+(http://www.sciencedirect.com/science/article/pii/S187734351500041X)
+
+Mridula Srinivasan, Mariela Dassis, Emily Benn, Karen A. Stockin, Emmanuelle Martinez, Gabriel E. Machovsky-Capuska, Using non-systematic surveys to investigate effects of regional climate variability on Australasian gannets in the Hauraki Gulf, New Zealand, Journal of Sea Research, Volume 99, May 2015, Pages 74-82, ISSN 1385-1101, http://dx.doi.org/10.1016/j.seares.2015.02.004.
+(http://www.sciencedirect.com/science/article/pii/S1385110115000180)
+Keywords: Seabirds; Climate variability; Apex predators; Hauraki Gulf; New Zealand
+
+Eun-Sung Jung, Rajkumar Kettimuthu, Venkatram Vishwanath, Cluster-to-cluster data transfer with data compression over wide-area networks, Journal of Parallel and Distributed Computing, Volumes 79–80, May 2015, Pages 90-103, ISSN 0743-7315, http://dx.doi.org/10.1016/j.jpdc.2014.09.008.
+(http://www.sciencedirect.com/science/article/pii/S0743731514001713)
+Keywords: Disk-to-disk data transfer; System modeling; Optimization; High-speed networks
+
+Zhenping Xie, Jun Sun, Vasile Palade, Shitong Wang, Yuan Liu, Evolutionary sampling: A novel way of machine learning within a probabilistic framework, Information Sciences, Volume 299, 1 April 2015, Pages 262-282, ISSN 0020-0255, http://dx.doi.org/10.1016/j.ins.2014.12.001.
+(http://www.sciencedirect.com/science/article/pii/S0020025514011384)
+Keywords: Evolutionary sampling; Support sample model; Monte Carlo Markov chain; Rejection sampling; Online learning; Particle swarm optimization
+
+Yong Hu, Bin Feng, Xiangzhou Zhang, E.W.T. Ngai, Mei Liu, Stock trading rule discovery with an evolutionary trend following model, Expert Systems with Applications, Volume 42, Issue 1, January 2015, Pages 212-222, ISSN 0957-4174, http://dx.doi.org/10.1016/j.eswa.2014.07.059.
+(http://www.sciencedirect.com/science/article/pii/S0957417414004758)
+Keywords: Evolutionary trend following algorithm (eTrend); eXtended Classifier System (XCS); Trading rule discovery; Concept drift
+
+Johannes Reiche, Jan Verbesselt, Dirk Hoekman, Martin Herold, Fusing Landsat and SAR time series to detect deforestation in the tropics, Remote Sensing of Environment, Volume 156, January 2015, Pages 276-293, ISSN 0034-4257, http://dx.doi.org/10.1016/j.rse.2014.10.001.
+(http://www.sciencedirect.com/science/article/pii/S0034425714003885)
+Keywords: MulTiFuse; Multi-sensor data fusion; ALOS PALSAR; Landsat; Time series; Change detection; Deforestation; Sensor interoperability
+
+Jochem Verrelst, Gustau Camps-Valls, Jordi Muñoz-Marí, Juan Pablo Rivera, Frank Veroustraete, Jan G.P.W. Clevers, José Moreno, Optical remote sensing and the retrieval of terrestrial vegetation bio-geophysical properties – A review, ISPRS Journal of Photogrammetry and Remote Sensing, Volume 108, October 2015, Pages 273-290, ISSN 0924-2716, http://dx.doi.org/10.1016/j.isprsjprs.2015.05.005.
+(http://www.sciencedirect.com/science/article/pii/S0924271615001422)
+Keywords: Bio-geophysical variables; Parametric; Non-parametric; Physical; Hybrid; Machine learning; Operational variable retrieval
+
+Miguel De-la-Torre, Eric Granger, Robert Sabourin, Dmitry O. Gorodnichy, Adaptive skew-sensitive ensembles for face recognition in video surveillance, Pattern Recognition, Volume 48, Issue 11, November 2015, Pages 3385-3406, ISSN 0031-3203, http://dx.doi.org/10.1016/j.patcog.2015.05.008.
+(http://www.sciencedirect.com/science/article/pii/S0031320315001879)
+Keywords: Adaptive classifier ensembles; Boolean combination; Imbalance estimation; Video-to-video face recognition; Video surveillance; Adaptive multiple classifier systems
+
+
