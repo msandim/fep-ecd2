@@ -117,7 +117,7 @@ $(document).ready(function () {
 
 <h1 class="title toc-ignore">extract_keywords.R</h1>
 <h4 class="author"><em>miguel</em></h4>
-<h4 class="date"><em>Mon May 23 18:07:57 2016</em></h4>
+<h4 class="date"><em>Sun May 29 00:26:58 2016</em></h4>
 
 </div>
 
@@ -197,7 +197,7 @@ getKeywordsScopus &lt;- function(fileName)
   keywords &lt;- keywords[keywords != &quot;&quot;]
   keywords &lt;- keywords[keywords != &quot;data stream&quot;]
   
-  keywords.data &lt;- tbl_df(as.data.frame(table(keywords), stringsAsFactors = FALSE)) %&gt;% mutate(Freq2 = Freq/numberArticles) %&gt;% arrange(desc(Freq2))
+  keywords.data &lt;- tbl_df(as.data.frame(table(keywords), stringsAsFactors = FALSE)) %&gt;% mutate(Freq2 = Freq/numberArticles, numberArticles = numberArticles) %&gt;% arrange(desc(Freq2))
   return(keywords.data)
 }
 
@@ -210,50 +210,50 @@ scopus2010 &lt;- getKeywordsScopus(&quot;scopus_2010.csv&quot;) %&gt;% top_n(10,
 scopus2015 &lt;- getKeywordsScopus(&quot;scopus_2015.csv&quot;) %&gt;% top_n(10, Freq2)
 
 scopus2005 %&gt;% head(10)</code></pre>
-<pre><code>## Source: local data frame [10 x 3]
+<pre><code>## Source: local data frame [10 x 4]
 ## 
-##                      keywords  Freq      Freq2
-##                         (chr) (int)      (dbl)
-## 1                  algorithms   127 0.16198980
-## 2                 data mining    99 0.12627551
-## 3             data processing    94 0.11989796
-## 4              data reduction    92 0.11734694
-## 5            database systems    89 0.11352041
-## 6             data structures    67 0.08545918
-## 7            data acquisition    65 0.08290816
-## 8         mathematical models    65 0.08290816
-## 9  data communication systems    64 0.08163265
-## 10        computer simulation    62 0.07908163</code></pre>
+##                      keywords  Freq      Freq2 numberArticles
+##                         (chr) (int)      (dbl)          (int)
+## 1                  algorithms   127 0.16198980            784
+## 2                 data mining    99 0.12627551            784
+## 3             data processing    94 0.11989796            784
+## 4              data reduction    92 0.11734694            784
+## 5            database systems    89 0.11352041            784
+## 6             data structures    67 0.08545918            784
+## 7            data acquisition    65 0.08290816            784
+## 8         mathematical models    65 0.08290816            784
+## 9  data communication systems    64 0.08163265            784
+## 10        computer simulation    62 0.07908163            784</code></pre>
 <pre class="r"><code>scopus2010 %&gt;% head(10)</code></pre>
-<pre><code>## Source: local data frame [10 x 3]
+<pre><code>## Source: local data frame [10 x 4]
 ## 
-##                      keywords  Freq      Freq2
-##                         (chr) (int)      (dbl)
-## 1  data communication systems   474 0.39665272
-## 2                  hydraulics   284 0.23765690
-## 3                 data mining   253 0.21171548
-## 4                  algorithms   181 0.15146444
-## 5             data processing    81 0.06778243
-## 6                     sensors    71 0.05941423
-## 7                  clustering    67 0.05606695
-## 8              sliding window    67 0.05606695
-## 9                optimization    65 0.05439331
-## 10              data handling    59 0.04937238</code></pre>
+##                      keywords  Freq      Freq2 numberArticles
+##                         (chr) (int)      (dbl)          (int)
+## 1  data communication systems   474 0.39665272           1195
+## 2                  hydraulics   284 0.23765690           1195
+## 3                 data mining   253 0.21171548           1195
+## 4                  algorithms   181 0.15146444           1195
+## 5             data processing    81 0.06778243           1195
+## 6                     sensors    71 0.05941423           1195
+## 7                  clustering    67 0.05606695           1195
+## 8              sliding window    67 0.05606695           1195
+## 9                optimization    65 0.05439331           1195
+## 10              data handling    59 0.04937238           1195</code></pre>
 <pre class="r"><code>scopus2015 %&gt;% head(10)</code></pre>
-<pre><code>## Source: local data frame [10 x 3]
+<pre><code>## Source: local data frame [10 x 4]
 ## 
-##                           keywords  Freq      Freq2
-##                              (chr) (int)      (dbl)
-## 1       data communication systems   349 0.27012384
-## 2                      data mining   280 0.21671827
-## 3                         big data   194 0.15015480
-## 4                    data handling   153 0.11842105
-## 5       social networking (online)    93 0.07198142
-## 6                       clustering    75 0.05804954
-## 7                 learning systems    62 0.04798762
-## 8  classification (of information)    60 0.04643963
-## 9                       algorithms    57 0.04411765
-## 10                 digital storage    54 0.04179567</code></pre>
+##                           keywords  Freq      Freq2 numberArticles
+##                              (chr) (int)      (dbl)          (int)
+## 1       data communication systems   349 0.27012384           1292
+## 2                      data mining   280 0.21671827           1292
+## 3                         big data   194 0.15015480           1292
+## 4                    data handling   153 0.11842105           1292
+## 5       social networking (online)    93 0.07198142           1292
+## 6                       clustering    75 0.05804954           1292
+## 7                 learning systems    62 0.04798762           1292
+## 8  classification (of information)    60 0.04643963           1292
+## 9                       algorithms    57 0.04411765           1292
+## 10                 digital storage    54 0.04179567           1292</code></pre>
 <pre class="r"><code>plotPoints &lt;- function()
 {
   

@@ -58,7 +58,7 @@ getKeywordsScopus <- function(fileName)
   keywords <- keywords[keywords != ""]
   keywords <- keywords[keywords != "data stream"]
   
-  keywords.data <- tbl_df(as.data.frame(table(keywords), stringsAsFactors = FALSE)) %>% mutate(Freq2 = Freq/numberArticles) %>% arrange(desc(Freq2))
+  keywords.data <- tbl_df(as.data.frame(table(keywords), stringsAsFactors = FALSE)) %>% mutate(Freq2 = Freq/numberArticles, numberArticles = numberArticles) %>% arrange(desc(Freq2))
   return(keywords.data)
 }
 
